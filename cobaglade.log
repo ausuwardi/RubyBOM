@@ -1,0 +1,1334 @@
+# Logfile created on Tue Jan 26 09:03:01 +0700 2010 by /
+Item Load (0.002063)  SELECT * FROM "items" 
+Item Exists (0.000419)  SELECT "items".id FROM "items" WHERE ("items"."id" = 1) LIMIT 1
+Item Load (0.000587)  SELECT * FROM "items" WHERE ("items"."id" = 1) 
+Item Exists (0.000385)  SELECT "items".id FROM "items" WHERE ("items"."id" = 4) LIMIT 1
+Item Load (0.000588)  SELECT * FROM "items" WHERE ("items"."id" = 4) 
+Item Exists (0.000355)  SELECT "items".id FROM "items" WHERE ("items"."id" = 4) LIMIT 1
+Item Load (0.000567)  SELECT * FROM "items" WHERE ("items"."id" = 4) 
+Item Exists (0.000379)  SELECT "items".id FROM "items" WHERE ("items"."id" = 5) LIMIT 1
+Item Load (0.000596)  SELECT * FROM "items" WHERE ("items"."id" = 5) 
+Item Exists (0.000351)  SELECT "items".id FROM "items" WHERE ("items"."id" = 5) LIMIT 1
+Item Load (0.000565)  SELECT * FROM "items" WHERE ("items"."id" = 5) 
+Item Exists (0.000380)  SELECT "items".id FROM "items" WHERE ("items"."id" = 4) LIMIT 1
+Item Load (0.000586)  SELECT * FROM "items" WHERE ("items"."id" = 4) 
+Item Exists (0.000351)  SELECT "items".id FROM "items" WHERE ("items"."id" = 4) LIMIT 1
+Item Load (0.000573)  SELECT * FROM "items" WHERE ("items"."id" = 4) 
+Item Exists (0.000383)  SELECT "items".id FROM "items" WHERE ("items"."id" = 1) LIMIT 1
+Item Load (0.000575)  SELECT * FROM "items" WHERE ("items"."id" = 1) 
+Item Exists (0.000360)  SELECT "items".id FROM "items" WHERE ("items"."id" = 1) LIMIT 1
+Item Load (0.000558)  SELECT * FROM "items" WHERE ("items"."id" = 1) 
+Item Exists (0.000380)  SELECT "items".id FROM "items" WHERE ("items"."id" = 4) LIMIT 1
+Item Load (0.000661)  SELECT * FROM "items" WHERE ("items"."id" = 4) 
+Item Exists (0.000358)  SELECT "items".id FROM "items" WHERE ("items"."id" = 4) LIMIT 1
+Item Load (0.000585)  SELECT * FROM "items" WHERE ("items"."id" = 4) 
+Item Exists (0.000404)  SELECT "items".id FROM "items" WHERE ("items"."id" = 5) LIMIT 1
+Item Load (0.000579)  SELECT * FROM "items" WHERE ("items"."id" = 5) 
+Item Exists (0.000354)  SELECT "items".id FROM "items" WHERE ("items"."id" = 5) LIMIT 1
+Item Load (0.000562)  SELECT * FROM "items" WHERE ("items"."id" = 5) 
+Item Exists (0.000399)  SELECT "items".id FROM "items" WHERE ("items"."id" = 4) LIMIT 1
+Item Load (0.000659)  SELECT * FROM "items" WHERE ("items"."id" = 4) 
+Item Exists (0.000381)  SELECT "items".id FROM "items" WHERE ("items"."id" = 4) LIMIT 1
+Item Load (0.000593)  SELECT * FROM "items" WHERE ("items"."id" = 4) 
+Item Exists (0.000381)  SELECT "items".id FROM "items" WHERE ("items"."id" = 1) LIMIT 1
+Item Load (0.000576)  SELECT * FROM "items" WHERE ("items"."id" = 1) 
+Item Exists (0.000449)  SELECT "items".id FROM "items" WHERE ("items"."id" = 1) LIMIT 1
+Item Load (0.000688)  SELECT * FROM "items" WHERE ("items"."id" = 1) 
+Item Load (0.001259)  SELECT * FROM "items" 
+Item Exists (0.000394)  SELECT "items".id FROM "items" WHERE ("items"."id" = 1) LIMIT 1
+Item Load (0.000590)  SELECT * FROM "items" WHERE ("items"."id" = 1) 
+Item Exists (0.000408)  SELECT "items".id FROM "items" WHERE ("items"."id" = 4) LIMIT 1
+Item Load (0.000576)  SELECT * FROM "items" WHERE ("items"."id" = 4) 
+Item Exists (0.000354)  SELECT "items".id FROM "items" WHERE ("items"."id" = 4) LIMIT 1
+Item Load (0.000574)  SELECT * FROM "items" WHERE ("items"."id" = 4) 
+Item Exists (0.000385)  SELECT "items".id FROM "items" WHERE ("items"."id" = 5) LIMIT 1
+Item Load (0.000584)  SELECT * FROM "items" WHERE ("items"."id" = 5) 
+Item Exists (0.000375)  SELECT "items".id FROM "items" WHERE ("items"."id" = 5) LIMIT 1
+Item Load (0.000557)  SELECT * FROM "items" WHERE ("items"."id" = 5) 
+Item Exists (0.000388)  SELECT "items".id FROM "items" WHERE ("items"."id" = 4) LIMIT 1
+Item Load (0.000566)  SELECT * FROM "items" WHERE ("items"."id" = 4) 
+Item Exists (0.000376)  SELECT "items".id FROM "items" WHERE ("items"."id" = 4) LIMIT 1
+Item Load (0.000573)  SELECT * FROM "items" WHERE ("items"."id" = 4) 
+Item Exists (0.000387)  SELECT "items".id FROM "items" WHERE ("items"."id" = 1) LIMIT 1
+Item Load (0.000586)  SELECT * FROM "items" WHERE ("items"."id" = 1) 
+Item Exists (0.000371)  SELECT "items".id FROM "items" WHERE ("items"."id" = 1) LIMIT 1
+Item Load (0.000592)  SELECT * FROM "items" WHERE ("items"."id" = 1) 
+Item Exists (0.000390)  SELECT "items".id FROM "items" WHERE ("items"."id" = 4) LIMIT 1
+Item Load (0.000583)  SELECT * FROM "items" WHERE ("items"."id" = 4) 
+Item Exists (0.000362)  SELECT "items".id FROM "items" WHERE ("items"."id" = 4) LIMIT 1
+Item Load (0.000594)  SELECT * FROM "items" WHERE ("items"."id" = 4) 
+Item Load (0.001314)  SELECT * FROM "items" 
+Item Exists (0.000390)  SELECT "items".id FROM "items" WHERE ("items"."id" = 1) LIMIT 1
+Item Load (0.000564)  SELECT * FROM "items" WHERE ("items"."id" = 1) 
+Item Exists (0.000376)  SELECT "items".id FROM "items" WHERE ("items"."id" = 4) LIMIT 1
+Item Load (0.000567)  SELECT * FROM "items" WHERE ("items"."id" = 4) 
+Item Exists (0.000347)  SELECT "items".id FROM "items" WHERE ("items"."id" = 4) LIMIT 1
+Item Load (0.000544)  SELECT * FROM "items" WHERE ("items"."id" = 4) 
+Item Exists (0.000378)  SELECT "items".id FROM "items" WHERE ("items"."id" = 5) LIMIT 1
+Item Load (0.000568)  SELECT * FROM "items" WHERE ("items"."id" = 5) 
+Item Exists (0.000346)  SELECT "items".id FROM "items" WHERE ("items"."id" = 5) LIMIT 1
+Item Load (0.000591)  SELECT * FROM "items" WHERE ("items"."id" = 5) 
+Item Exists (0.000377)  SELECT "items".id FROM "items" WHERE ("items"."id" = 4) LIMIT 1
+Item Load (0.000577)  SELECT * FROM "items" WHERE ("items"."id" = 4) 
+Item Exists (0.000352)  SELECT "items".id FROM "items" WHERE ("items"."id" = 4) LIMIT 1
+Item Load (0.000576)  SELECT * FROM "items" WHERE ("items"."id" = 4) 
+Item Exists (0.000375)  SELECT "items".id FROM "items" WHERE ("items"."id" = 1) LIMIT 1
+Item Load (0.000578)  SELECT * FROM "items" WHERE ("items"."id" = 1) 
+Item Exists (0.000359)  SELECT "items".id FROM "items" WHERE ("items"."id" = 1) LIMIT 1
+Item Load (0.000684)  SELECT * FROM "items" WHERE ("items"."id" = 1) 
+Item Exists (0.000377)  SELECT "items".id FROM "items" WHERE ("items"."id" = 4) LIMIT 1
+Item Load (0.000599)  SELECT * FROM "items" WHERE ("items"."id" = 4) 
+Item Exists (0.000346)  SELECT "items".id FROM "items" WHERE ("items"."id" = 4) LIMIT 1
+Item Load (0.000561)  SELECT * FROM "items" WHERE ("items"."id" = 4) 
+Item Exists (0.000376)  SELECT "items".id FROM "items" WHERE ("items"."id" = 5) LIMIT 1
+Item Load (0.000571)  SELECT * FROM "items" WHERE ("items"."id" = 5) 
+Item Exists (0.000341)  SELECT "items".id FROM "items" WHERE ("items"."id" = 5) LIMIT 1
+Item Load (0.000550)  SELECT * FROM "items" WHERE ("items"."id" = 5) 
+Item Exists (0.000375)  SELECT "items".id FROM "items" WHERE ("items"."id" = 4) LIMIT 1
+Item Load (0.000593)  SELECT * FROM "items" WHERE ("items"."id" = 4) 
+Item Exists (0.000334)  SELECT "items".id FROM "items" WHERE ("items"."id" = 4) LIMIT 1
+Item Load (0.000542)  SELECT * FROM "items" WHERE ("items"."id" = 4) 
+Item Exists (0.000412)  SELECT "items".id FROM "items" WHERE ("items"."id" = 1) LIMIT 1
+Item Load (0.000565)  SELECT * FROM "items" WHERE ("items"."id" = 1) 
+Item Exists (0.000345)  SELECT "items".id FROM "items" WHERE ("items"."id" = 1) LIMIT 1
+Item Load (0.000574)  SELECT * FROM "items" WHERE ("items"."id" = 1) 
+Item Load (0.001275)  SELECT * FROM "items" 
+Item Exists (0.000387)  SELECT "items".id FROM "items" WHERE ("items"."id" = 1) LIMIT 1
+Item Load (0.000572)  SELECT * FROM "items" WHERE ("items"."id" = 1) 
+Item Exists (0.000443)  SELECT "items".id FROM "items" WHERE ("items"."id" = 4) LIMIT 1
+Item Load (0.000669)  SELECT * FROM "items" WHERE ("items"."id" = 4) 
+Item Exists (0.000356)  SELECT "items".id FROM "items" WHERE ("items"."id" = 4) LIMIT 1
+Item Load (0.000581)  SELECT * FROM "items" WHERE ("items"."id" = 4) 
+Item Exists (0.000378)  SELECT "items".id FROM "items" WHERE ("items"."id" = 5) LIMIT 1
+Item Load (0.000574)  SELECT * FROM "items" WHERE ("items"."id" = 5) 
+Item Exists (0.000347)  SELECT "items".id FROM "items" WHERE ("items"."id" = 5) LIMIT 1
+Item Load (0.000560)  SELECT * FROM "items" WHERE ("items"."id" = 5) 
+Item Exists (0.000382)  SELECT "items".id FROM "items" WHERE ("items"."id" = 1) LIMIT 1
+Item Load (0.000575)  SELECT * FROM "items" WHERE ("items"."id" = 1) 
+Item Exists (0.000355)  SELECT "items".id FROM "items" WHERE ("items"."id" = 1) LIMIT 1
+Item Load (0.000633)  SELECT * FROM "items" WHERE ("items"."id" = 1) 
+Item Load (0.001269)  SELECT * FROM "items" 
+Item Load (0.001831)  SELECT * FROM "items" 
+Item Load (0.001797)  SELECT * FROM "items" 
+Item Exists (0.000387)  SELECT "items".id FROM "items" WHERE ("items"."id" = 1) LIMIT 1
+Item Load (0.000572)  SELECT * FROM "items" WHERE ("items"."id" = 1) 
+Item Exists (0.000529)  SELECT "items".id FROM "items" WHERE ("items"."id" = 4) LIMIT 1
+Item Load (0.000702)  SELECT * FROM "items" WHERE ("items"."id" = 4) 
+Item Exists (0.000382)  SELECT "items".id FROM "items" WHERE ("items"."id" = 5) LIMIT 1
+Item Load (0.000578)  SELECT * FROM "items" WHERE ("items"."id" = 5) 
+Item Load (0.001291)  SELECT * FROM "items" 
+Item Exists (0.000390)  SELECT "items".id FROM "items" WHERE ("items"."id" = 1) LIMIT 1
+Item Load (0.000568)  SELECT * FROM "items" WHERE ("items"."id" = 1) 
+Item Exists (0.000377)  SELECT "items".id FROM "items" WHERE ("items"."id" = 4) LIMIT 1
+Item Load (0.000575)  SELECT * FROM "items" WHERE ("items"."id" = 4) 
+Item Exists (0.000383)  SELECT "items".id FROM "items" WHERE ("items"."id" = 5) LIMIT 1
+Item Load (0.000606)  SELECT * FROM "items" WHERE ("items"."id" = 5) 
+Item Exists (0.000379)  SELECT "items".id FROM "items" WHERE ("items"."id" = 1) LIMIT 1
+Item Load (0.000660)  SELECT * FROM "items" WHERE ("items"."id" = 1) 
+Item Exists (0.000377)  SELECT "items".id FROM "items" WHERE ("items"."id" = 4) LIMIT 1
+Item Load (0.000621)  SELECT * FROM "items" WHERE ("items"."id" = 4) 
+Item Load (0.001829)  SELECT * FROM "items" 
+Item Exists (0.000393)  SELECT "items".id FROM "items" WHERE ("items"."id" = 1) LIMIT 1
+Item Load (0.000575)  SELECT * FROM "items" WHERE ("items"."id" = 1) 
+Item Load (0.001989)  SELECT * FROM "items" 
+Item Exists (0.000392)  SELECT "items".id FROM "items" WHERE ("items"."id" = 1) LIMIT 1
+Item Load (0.000583)  SELECT * FROM "items" WHERE ("items"."id" = 1) 
+Item Load (0.001802)  SELECT * FROM "items" 
+Item Exists (0.000396)  SELECT "items".id FROM "items" WHERE ("items"."id" = 1) LIMIT 1
+Item Load (0.000571)  SELECT * FROM "items" WHERE ("items"."id" = 1) 
+Item Load (0.001279)  SELECT * FROM "items" 
+Item Exists (0.000393)  SELECT "items".id FROM "items" WHERE ("items"."id" = 1) LIMIT 1
+Item Load (0.000652)  SELECT * FROM "items" WHERE ("items"."id" = 1) 
+Item Exists (0.000385)  SELECT "items".id FROM "items" WHERE ("items"."id" = 4) LIMIT 1
+Item Load (0.000588)  SELECT * FROM "items" WHERE ("items"."id" = 4) 
+Item Exists (0.000381)  SELECT "items".id FROM "items" WHERE ("items"."id" = 5) LIMIT 1
+Item Load (0.000574)  SELECT * FROM "items" WHERE ("items"."id" = 5) 
+Item Exists (0.000383)  SELECT "items".id FROM "items" WHERE ("items"."id" = 1) LIMIT 1
+Item Load (0.000574)  SELECT * FROM "items" WHERE ("items"."id" = 1) 
+Item Exists (0.000385)  SELECT "items".id FROM "items" WHERE ("items"."id" = 4) LIMIT 1
+Item Load (0.000573)  SELECT * FROM "items" WHERE ("items"."id" = 4) 
+Item Exists (0.000384)  SELECT "items".id FROM "items" WHERE ("items"."id" = 1) LIMIT 1
+Item Load (0.000595)  SELECT * FROM "items" WHERE ("items"."id" = 1) 
+Item Load (0.001462)  SELECT * FROM "items" 
+Item Exists (0.000394)  SELECT "items".id FROM "items" WHERE ("items"."id" = 1) LIMIT 1
+Item Load (0.000576)  SELECT * FROM "items" WHERE ("items"."id" = 1) 
+Item Exists (0.000351)  SELECT "items".id FROM "items" WHERE ("items"."id" = 4) LIMIT 1
+Item Load (0.000652)  SELECT * FROM "items" WHERE ("items"."id" = 4) 
+Item Exists (0.000353)  SELECT "items".id FROM "items" WHERE ("items"."id" = 1) LIMIT 1
+Item Load (0.000577)  SELECT * FROM "items" WHERE ("items"."id" = 1) 
+Item Exists (0.000377)  SELECT "items".id FROM "items" WHERE ("items"."id" = 4) LIMIT 1
+Item Load (0.000588)  SELECT * FROM "items" WHERE ("items"."id" = 4) 
+Item Exists (0.000346)  SELECT "items".id FROM "items" WHERE ("items"."id" = 5) LIMIT 1
+Item Load (0.000599)  SELECT * FROM "items" WHERE ("items"."id" = 5) 
+Item Exists (0.000362)  SELECT "items".id FROM "items" WHERE ("items"."id" = 4) LIMIT 1
+Item Load (0.000633)  SELECT * FROM "items" WHERE ("items"."id" = 4) 
+Item Exists (0.000349)  SELECT "items".id FROM "items" WHERE ("items"."id" = 1) LIMIT 1
+Item Load (0.000585)  SELECT * FROM "items" WHERE ("items"."id" = 1) 
+Item Exists (0.000376)  SELECT "items".id FROM "items" WHERE ("items"."id" = 4) LIMIT 1
+Item Load (0.000591)  SELECT * FROM "items" WHERE ("items"."id" = 4) 
+Item Exists (0.000348)  SELECT "items".id FROM "items" WHERE ("items"."id" = 5) LIMIT 1
+Item Load (0.000578)  SELECT * FROM "items" WHERE ("items"."id" = 5) 
+Item Exists (0.000379)  SELECT "items".id FROM "items" WHERE ("items"."id" = 4) LIMIT 1
+Item Load (0.000609)  SELECT * FROM "items" WHERE ("items"."id" = 4) 
+Item Exists (0.000351)  SELECT "items".id FROM "items" WHERE ("items"."id" = 1) LIMIT 1
+Item Load (0.000601)  SELECT * FROM "items" WHERE ("items"."id" = 1) 
+Item Load (0.001318)  SELECT * FROM "items" 
+Item Exists (0.000392)  SELECT "items".id FROM "items" WHERE ("items"."id" = 1) LIMIT 1
+Item Load (0.000697)  SELECT * FROM "items" WHERE ("items"."id" = 1) 
+Item Load (0.001412)  SELECT * FROM "items" 
+Item Exists (0.000393)  SELECT "items".id FROM "items" WHERE ("items"."id" = 1) LIMIT 1
+Item Load (0.000586)  SELECT * FROM "items" WHERE ("items"."id" = 1) 
+Item Load (0.001299)  SELECT * FROM "items" 
+Item Exists (0.000400)  SELECT "items".id FROM "items" WHERE ("items"."id" = 1) LIMIT 1
+Item Load (0.000616)  SELECT * FROM "items" WHERE ("items"."id" = 1) 
+Item Exists (0.000380)  SELECT "items".id FROM "items" WHERE ("items"."id" = 4) LIMIT 1
+Item Load (0.000577)  SELECT * FROM "items" WHERE ("items"."id" = 4) 
+Item Exists (0.000380)  SELECT "items".id FROM "items" WHERE ("items"."id" = 1) LIMIT 1
+Item Load (0.000568)  SELECT * FROM "items" WHERE ("items"."id" = 1) 
+Item Exists (0.000395)  SELECT "items".id FROM "items" WHERE ("items"."id" = 4) LIMIT 1
+Item Load (0.000578)  SELECT * FROM "items" WHERE ("items"."id" = 4) 
+Item Exists (0.000382)  SELECT "items".id FROM "items" WHERE ("items"."id" = 5) LIMIT 1
+Item Load (0.000615)  SELECT * FROM "items" WHERE ("items"."id" = 5) 
+Item Exists (0.000380)  SELECT "items".id FROM "items" WHERE ("items"."id" = 1) LIMIT 1
+Item Load (0.000585)  SELECT * FROM "items" WHERE ("items"."id" = 1) 
+Item Exists (0.000384)  SELECT "items".id FROM "items" WHERE ("items"."id" = 4) LIMIT 1
+Item Load (0.000577)  SELECT * FROM "items" WHERE ("items"."id" = 4) 
+Item Exists (0.000380)  SELECT "items".id FROM "items" WHERE ("items"."id" = 1) LIMIT 1
+Item Load (0.000604)  SELECT * FROM "items" WHERE ("items"."id" = 1) 
+Item Exists (0.000384)  SELECT "items".id FROM "items" WHERE ("items"."id" = 4) LIMIT 1
+Item Load (0.000583)  SELECT * FROM "items" WHERE ("items"."id" = 4) 
+Item Exists (0.000382)  SELECT "items".id FROM "items" WHERE ("items"."id" = 5) LIMIT 1
+Item Load (0.000600)  SELECT * FROM "items" WHERE ("items"."id" = 5) 
+Item Exists (0.000408)  SELECT "items".id FROM "items" WHERE ("items"."id" = 4) LIMIT 1
+Item Load (0.000570)  SELECT * FROM "items" WHERE ("items"."id" = 4) 
+Item Exists (0.000382)  SELECT "items".id FROM "items" WHERE ("items"."id" = 1) LIMIT 1
+Item Load (0.000615)  SELECT * FROM "items" WHERE ("items"."id" = 1) 
+Item Exists (0.000385)  SELECT "items".id FROM "items" WHERE ("items"."id" = 4) LIMIT 1
+Item Load (0.000584)  SELECT * FROM "items" WHERE ("items"."id" = 4) 
+Item Exists (0.000385)  SELECT "items".id FROM "items" WHERE ("items"."id" = 5) LIMIT 1
+Item Load (0.000573)  SELECT * FROM "items" WHERE ("items"."id" = 5) 
+Item Exists (0.000380)  SELECT "items".id FROM "items" WHERE ("items"."id" = 4) LIMIT 1
+Item Load (0.000585)  SELECT * FROM "items" WHERE ("items"."id" = 4) 
+Item Exists (0.000380)  SELECT "items".id FROM "items" WHERE ("items"."id" = 1) LIMIT 1
+Item Load (0.000594)  SELECT * FROM "items" WHERE ("items"."id" = 1) 
+Item Load (0.001802)  SELECT * FROM "items" 
+Item Exists (0.000413)  SELECT "items".id FROM "items" WHERE ("items"."id" = 5) LIMIT 1
+Item Load (0.000580)  SELECT * FROM "items" WHERE ("items"."id" = 5) 
+Item Exists (0.000381)  SELECT "items".id FROM "items" WHERE ("items"."id" = 4) LIMIT 1
+Item Load (0.000571)  SELECT * FROM "items" WHERE ("items"."id" = 4) 
+Item Exists (0.000416)  SELECT "items".id FROM "items" WHERE ("items"."id" = 5) LIMIT 1
+Item Load (0.000418)  SELECT * FROM "items" WHERE ("items"."id" = 5) 
+Item Exists (0.000377)  SELECT "items".id FROM "items" WHERE ("items"."id" = 4) LIMIT 1
+Item Load (0.000596)  SELECT * FROM "items" WHERE ("items"."id" = 4) 
+Item Exists (0.000378)  SELECT "items".id FROM "items" WHERE ("items"."id" = 5) LIMIT 1
+Item Load (0.000591)  SELECT * FROM "items" WHERE ("items"."id" = 5) 
+Item Load (0.001284)  SELECT * FROM "items" 
+Item Exists (0.000387)  SELECT "items".id FROM "items" WHERE ("items"."id" = 1) LIMIT 1
+Item Load (0.000569)  SELECT * FROM "items" WHERE ("items"."id" = 1) 
+Item Exists (0.000380)  SELECT "items".id FROM "items" WHERE ("items"."id" = 4) LIMIT 1
+Item Load (0.000607)  SELECT * FROM "items" WHERE ("items"."id" = 4) 
+Item Exists (0.000383)  SELECT "items".id FROM "items" WHERE ("items"."id" = 5) LIMIT 1
+Item Load (0.000584)  SELECT * FROM "items" WHERE ("items"."id" = 5) 
+Item Exists (0.000382)  SELECT "items".id FROM "items" WHERE ("items"."id" = 4) LIMIT 1
+Item Load (0.000585)  SELECT * FROM "items" WHERE ("items"."id" = 4) 
+Item Exists (0.000380)  SELECT "items".id FROM "items" WHERE ("items"."id" = 1) LIMIT 1
+Item Load (0.000618)  SELECT * FROM "items" WHERE ("items"."id" = 1) 
+Item Exists (0.000409)  SELECT "items".id FROM "items" WHERE ("items"."id" = 4) LIMIT 1
+Item Load (0.000576)  SELECT * FROM "items" WHERE ("items"."id" = 4) 
+Item Exists (0.000382)  SELECT "items".id FROM "items" WHERE ("items"."id" = 5) LIMIT 1
+Item Load (0.000592)  SELECT * FROM "items" WHERE ("items"."id" = 5) 
+Item Load (0.001288)  SELECT * FROM "items" 
+Item Exists (0.000389)  SELECT "items".id FROM "items" WHERE ("items"."id" = 1) LIMIT 1
+Item Load (0.000560)  SELECT * FROM "items" WHERE ("items"."id" = 1) 
+Item Exists (0.000379)  SELECT "items".id FROM "items" WHERE ("items"."id" = 4) LIMIT 1
+Item Load (0.000564)  SELECT * FROM "items" WHERE ("items"."id" = 4) 
+Item Exists (0.000378)  SELECT "items".id FROM "items" WHERE ("items"."id" = 5) LIMIT 1
+Item Load (0.000696)  SELECT * FROM "items" WHERE ("items"."id" = 5) 
+Item Exists (0.000385)  SELECT "items".id FROM "items" WHERE ("items"."id" = 4) LIMIT 1
+Item Load (0.000587)  SELECT * FROM "items" WHERE ("items"."id" = 4) 
+Item Exists (0.000385)  SELECT "items".id FROM "items" WHERE ("items"."id" = 1) LIMIT 1
+Item Load (0.000583)  SELECT * FROM "items" WHERE ("items"."id" = 1) 
+Item Exists (0.000401)  SELECT "items".id FROM "items" WHERE ("items"."id" = 4) LIMIT 1
+Item Load (0.000566)  SELECT * FROM "items" WHERE ("items"."id" = 4) 
+Item Exists (0.000378)  SELECT "items".id FROM "items" WHERE ("items"."id" = 5) LIMIT 1
+Item Load (0.000575)  SELECT * FROM "items" WHERE ("items"."id" = 5) 
+Item Exists (0.000388)  SELECT "items".id FROM "items" WHERE ("items"."id" = 4) LIMIT 1
+Item Load (0.000581)  SELECT * FROM "items" WHERE ("items"."id" = 4) 
+Item Exists (0.000384)  SELECT "items".id FROM "items" WHERE ("items"."id" = 1) LIMIT 1
+Item Load (0.000571)  SELECT * FROM "items" WHERE ("items"."id" = 1) 
+Item Exists (0.000406)  SELECT "items".id FROM "items" WHERE ("items"."id" = 4) LIMIT 1
+Item Load (0.000575)  SELECT * FROM "items" WHERE ("items"."id" = 4) 
+Item Exists (0.000415)  SELECT "items".id FROM "items" WHERE ("items"."id" = 5) LIMIT 1
+Item Load (0.000575)  SELECT * FROM "items" WHERE ("items"."id" = 5) 
+Item Exists (0.000299)  SELECT "items".id FROM "items" WHERE ("items"."id" = 4) LIMIT 1
+Item Load (0.000414)  SELECT * FROM "items" WHERE ("items"."id" = 4) 
+Item Exists (0.000381)  SELECT "items".id FROM "items" WHERE ("items"."id" = 1) LIMIT 1
+Item Load (0.000569)  SELECT * FROM "items" WHERE ("items"."id" = 1) 
+Item Exists (0.000399)  SELECT "items".id FROM "items" WHERE ("items"."id" = 4) LIMIT 1
+Item Load (0.000572)  SELECT * FROM "items" WHERE ("items"."id" = 4) 
+Item Load (0.001304)  SELECT * FROM "items" 
+Item Exists (0.000392)  SELECT "items".id FROM "items" WHERE ("items"."id" = 1) LIMIT 1
+Item Load (0.000566)  SELECT * FROM "items" WHERE ("items"."id" = 1) 
+Item Update (0.020543)  UPDATE "items" SET "logistic_type" = NULL WHERE "id" = 1
+Item Exists (0.000359)  SELECT "items".id FROM "items" WHERE ("items"."id" = 4) LIMIT 1
+Item Load (0.000568)  SELECT * FROM "items" WHERE ("items"."id" = 4) 
+Item Update (0.000476)  UPDATE "items" SET "logistic_type" = 70 WHERE "id" = 4
+Item Exists (0.000345)  SELECT "items".id FROM "items" WHERE ("items"."id" = 1) LIMIT 1
+Item Load (0.000565)  SELECT * FROM "items" WHERE ("items"."id" = 1) 
+Item Update (0.000486)  UPDATE "items" SET "logistic_type" = 70 WHERE "id" = 1
+Item Exists (0.000346)  SELECT "items".id FROM "items" WHERE ("items"."id" = 4) LIMIT 1
+Item Load (0.000570)  SELECT * FROM "items" WHERE ("items"."id" = 4) 
+Item Update (0.000499)  UPDATE "items" SET "logistic_type" = NULL WHERE "id" = 4
+Item Exists (0.000351)  SELECT "items".id FROM "items" WHERE ("items"."id" = 1) LIMIT 1
+Item Load (0.000592)  SELECT * FROM "items" WHERE ("items"."id" = 1) 
+Item Update (0.000425)  UPDATE "items" SET "logistic_type" = NULL WHERE "id" = 1
+Item Exists (0.000364)  SELECT "items".id FROM "items" WHERE ("items"."id" = 4) LIMIT 1
+Item Load (0.000569)  SELECT * FROM "items" WHERE ("items"."id" = 4) 
+Item Exists (0.000570)  SELECT "items".id FROM "items" WHERE ("items"."id" = 5) LIMIT 1
+Item Load (0.000584)  SELECT * FROM "items" WHERE ("items"."id" = 5) 
+Item Update (0.000479)  UPDATE "items" SET "logistic_type" = 70 WHERE "id" = 5
+Item Exists (0.000351)  SELECT "items".id FROM "items" WHERE ("items"."id" = 4) LIMIT 1
+Item Load (0.000560)  SELECT * FROM "items" WHERE ("items"."id" = 4) 
+Item Update (0.000412)  UPDATE "items" SET "logistic_type" = 70 WHERE "id" = 4
+Item Exists (0.000344)  SELECT "items".id FROM "items" WHERE ("items"."id" = 1) LIMIT 1
+Item Load (0.000556)  SELECT * FROM "items" WHERE ("items"."id" = 1) 
+Item Exists (0.000357)  SELECT "items".id FROM "items" WHERE ("items"."id" = 4) LIMIT 1
+Item Load (0.000611)  SELECT * FROM "items" WHERE ("items"."id" = 4) 
+Item Update (0.000473)  UPDATE "items" SET "logistic_type" = NULL WHERE "id" = 4
+Item Exists (0.000355)  SELECT "items".id FROM "items" WHERE ("items"."id" = 5) LIMIT 1
+Item Load (0.000569)  SELECT * FROM "items" WHERE ("items"."id" = 5) 
+Item Update (0.000530)  UPDATE "items" SET "logistic_type" = 73 WHERE "id" = 5
+Item Exists (0.000349)  SELECT "items".id FROM "items" WHERE ("items"."id" = 4) LIMIT 1
+Item Load (0.000568)  SELECT * FROM "items" WHERE ("items"."id" = 4) 
+Item Exists (0.000342)  SELECT "items".id FROM "items" WHERE ("items"."id" = 5) LIMIT 1
+Item Load (0.000591)  SELECT * FROM "items" WHERE ("items"."id" = 5) 
+Item Update (0.000498)  UPDATE "items" SET "logistic_type" = NULL WHERE "id" = 5
+Item Exists (0.000342)  SELECT "items".id FROM "items" WHERE ("items"."id" = 4) LIMIT 1
+Item Load (0.000568)  SELECT * FROM "items" WHERE ("items"."id" = 4) 
+Item Exists (0.000362)  SELECT "items".id FROM "items" WHERE ("items"."id" = 1) LIMIT 1
+Item Load (0.000611)  SELECT * FROM "items" WHERE ("items"."id" = 1) 
+Item Exists (0.000365)  SELECT "items".id FROM "items" WHERE ("items"."id" = 4) LIMIT 1
+Item Load (0.000566)  SELECT * FROM "items" WHERE ("items"."id" = 4) 
+Item Exists (0.000343)  SELECT "items".id FROM "items" WHERE ("items"."id" = 1) LIMIT 1
+Item Load (0.000603)  SELECT * FROM "items" WHERE ("items"."id" = 1) 
+Item Exists (0.000341)  SELECT "items".id FROM "items" WHERE ("items"."id" = 4) LIMIT 1
+Item Load (0.000590)  SELECT * FROM "items" WHERE ("items"."id" = 4) 
+Item Exists (0.000343)  SELECT "items".id FROM "items" WHERE ("items"."id" = 1) LIMIT 1
+Item Load (0.000567)  SELECT * FROM "items" WHERE ("items"."id" = 1) 
+Item Update (0.000413)  UPDATE "items" SET "lead_time" = 3 WHERE "id" = 1
+Item Exists (0.000352)  SELECT "items".id FROM "items" WHERE ("items"."id" = 4) LIMIT 1
+Item Load (0.000580)  SELECT * FROM "items" WHERE ("items"."id" = 4) 
+Item Exists (0.000344)  SELECT "items".id FROM "items" WHERE ("items"."id" = 1) LIMIT 1
+Item Load (0.000561)  SELECT * FROM "items" WHERE ("items"."id" = 1) 
+Item Exists (0.000364)  SELECT "items".id FROM "items" WHERE ("items"."id" = 4) LIMIT 1
+Item Load (0.000621)  SELECT * FROM "items" WHERE ("items"."id" = 4) 
+Item Exists (0.000407)  SELECT "items".id FROM "items" WHERE ("items"."id" = 1) LIMIT 1
+Item Load (0.000692)  SELECT * FROM "items" WHERE ("items"."id" = 1) 
+Item Exists (0.000341)  SELECT "items".id FROM "items" WHERE ("items"."id" = 4) LIMIT 1
+Item Load (0.000590)  SELECT * FROM "items" WHERE ("items"."id" = 4) 
+Item Load (0.001803)  SELECT * FROM "items" 
+Item Exists (0.000421)  SELECT "items".id FROM "items" WHERE ("items"."id" = 1) LIMIT 1
+Item Load (0.000587)  SELECT * FROM "items" WHERE ("items"."id" = 1) 
+Item Update (0.000784)  UPDATE "items" SET "logistic_type" = 'F' WHERE "id" = 1
+Item Exists (0.000363)  SELECT "items".id FROM "items" WHERE ("items"."id" = 4) LIMIT 1
+Item Load (0.000579)  SELECT * FROM "items" WHERE ("items"."id" = 4) 
+Item Update (0.000406)  UPDATE "items" SET "logistic_type" = 'F' WHERE "id" = 4
+Item Exists (0.000354)  SELECT "items".id FROM "items" WHERE ("items"."id" = 1) LIMIT 1
+Item Load (0.000567)  SELECT * FROM "items" WHERE ("items"."id" = 1) 
+Item Exists (0.000363)  SELECT "items".id FROM "items" WHERE ("items"."id" = 4) LIMIT 1
+Item Load (0.000806)  SELECT * FROM "items" WHERE ("items"."id" = 4) 
+Item Exists (0.000347)  SELECT "items".id FROM "items" WHERE ("items"."id" = 5) LIMIT 1
+Item Load (0.000577)  SELECT * FROM "items" WHERE ("items"."id" = 5) 
+Item Update (0.000427)  UPDATE "items" SET "logistic_type" = 'R' WHERE "id" = 5
+Item Exists (0.000360)  SELECT "items".id FROM "items" WHERE ("items"."id" = 4) LIMIT 1
+Item Load (0.000560)  SELECT * FROM "items" WHERE ("items"."id" = 4) 
+Item Exists (0.000347)  SELECT "items".id FROM "items" WHERE ("items"."id" = 5) LIMIT 1
+Item Load (0.000603)  SELECT * FROM "items" WHERE ("items"."id" = 5) 
+Item Update (0.000489)  UPDATE "items" SET "logistic_type" = 'F' WHERE "id" = 5
+Item Exists (0.000355)  SELECT "items".id FROM "items" WHERE ("items"."id" = 4) LIMIT 1
+Item Load (0.000565)  SELECT * FROM "items" WHERE ("items"."id" = 4) 
+Item Exists (0.000365)  SELECT "items".id FROM "items" WHERE ("items"."id" = 1) LIMIT 1
+Item Load (0.000574)  SELECT * FROM "items" WHERE ("items"."id" = 1) 
+Item Load (0.001287)  SELECT * FROM "items" 
+Item Load (0.001278)  SELECT * FROM "items" 
+Item Exists (0.000419)  SELECT "items".id FROM "items" WHERE ("items"."id" = 1) LIMIT 1
+Item Load (0.000585)  SELECT * FROM "items" WHERE ("items"."id" = 1) 
+Item Exists (0.000349)  SELECT "items".id FROM "items" WHERE ("items"."id" = 4) LIMIT 1
+Item Load (0.000597)  SELECT * FROM "items" WHERE ("items"."id" = 4) 
+Item Load (0.001275)  SELECT * FROM "items" 
+Item Load (0.001310)  SELECT * FROM "items" 
+Item Load (0.001297)  SELECT * FROM "items" 
+Item Load (0.001283)  SELECT * FROM "items" 
+Item Load (0.001280)  SELECT * FROM "items" 
+Item Load (0.001297)  SELECT * FROM "items" 
+Item Load (0.001301)  SELECT * FROM "items" 
+Item Load (0.002048)  SELECT * FROM "items" 
+Item Load (0.001298)  SELECT * FROM "items" 
+Item Load (0.001435)  SELECT * FROM "items" 
+Item Load (0.001294)  SELECT * FROM "items" 
+Item Load (0.001291)  SELECT * FROM "items" 
+Item Load (0.001317)  SELECT * FROM "items" 
+Item Load (0.001281)  SELECT * FROM "items" 
+Item Load (0.001295)  SELECT * FROM "items" 
+Item Load (0.001304)  SELECT * FROM "items" 
+Item Load (0.001267)  SELECT * FROM "items" 
+Item Load (0.001821)  SELECT * FROM "items" 
+Item Load (0.001306)  SELECT * FROM "items" 
+Item Load (0.001329)  SELECT * FROM "items" 
+Item Exists (0.000390)  SELECT "items".id FROM "items" WHERE ("items"."id" = 1) LIMIT 1
+Item Load (0.000564)  SELECT * FROM "items" WHERE ("items"."id" = 1) 
+Item Exists (0.000338)  SELECT "items".id FROM "items" WHERE ("items"."id" = 4) LIMIT 1
+Item Load (0.000564)  SELECT * FROM "items" WHERE ("items"."id" = 4) 
+Item Exists (0.000338)  SELECT "items".id FROM "items" WHERE ("items"."id" = 5) LIMIT 1
+Item Load (0.000590)  SELECT * FROM "items" WHERE ("items"."id" = 5) 
+Item Exists (0.000340)  SELECT "items".id FROM "items" WHERE ("items"."id" = 4) LIMIT 1
+Item Load (0.000593)  SELECT * FROM "items" WHERE ("items"."id" = 4) 
+Item Exists (0.000339)  SELECT "items".id FROM "items" WHERE ("items"."id" = 1) LIMIT 1
+Item Load (0.000577)  SELECT * FROM "items" WHERE ("items"."id" = 1) 
+Item Exists (0.000355)  SELECT "items".id FROM "items" WHERE ("items"."id" = 4) LIMIT 1
+Item Load (0.000678)  SELECT * FROM "items" WHERE ("items"."id" = 4) 
+Item Exists (0.000337)  SELECT "items".id FROM "items" WHERE ("items"."id" = 5) LIMIT 1
+Item Load (0.000583)  SELECT * FROM "items" WHERE ("items"."id" = 5) 
+Item Exists (0.000346)  SELECT "items".id FROM "items" WHERE ("items"."id" = 4) LIMIT 1
+Item Load (0.000593)  SELECT * FROM "items" WHERE ("items"."id" = 4) 
+Item Exists (0.000339)  SELECT "items".id FROM "items" WHERE ("items"."id" = 1) LIMIT 1
+Item Load (0.000570)  SELECT * FROM "items" WHERE ("items"."id" = 1) 
+Item Exists (0.000343)  SELECT "items".id FROM "items" WHERE ("items"."id" = 4) LIMIT 1
+Item Load (0.000578)  SELECT * FROM "items" WHERE ("items"."id" = 4) 
+Item Exists (0.000337)  SELECT "items".id FROM "items" WHERE ("items"."id" = 5) LIMIT 1
+Item Load (0.000571)  SELECT * FROM "items" WHERE ("items"."id" = 5) 
+Item Load (0.005840)  SELECT * FROM "items" 
+Item Load (0.019895)  SELECT * FROM "items" 
+Item Load (0.002590)  SELECT * FROM "items" 
+Unit Load (0.000478)  SELECT * FROM "units" 
+Item Exists (0.000419)  SELECT "items".id FROM "items" WHERE ("items"."id" = 8) LIMIT 1
+Item Load (0.000581)  SELECT * FROM "items" WHERE ("items"."id" = 8) 
+Item Exists (0.000390)  SELECT "items".id FROM "items" WHERE ("items"."id" = 7) LIMIT 1
+Item Load (0.000589)  SELECT * FROM "items" WHERE ("items"."id" = 7) 
+Item Exists (0.000356)  SELECT "items".id FROM "items" WHERE ("items"."id" = 6) LIMIT 1
+Item Load (0.000667)  SELECT * FROM "items" WHERE ("items"."id" = 6) 
+Item Exists (0.000353)  SELECT "items".id FROM "items" WHERE ("items"."id" = 5) LIMIT 1
+Item Load (0.000589)  SELECT * FROM "items" WHERE ("items"."id" = 5) 
+Item Exists (0.000349)  SELECT "items".id FROM "items" WHERE ("items"."id" = 4) LIMIT 1
+Item Load (0.000594)  SELECT * FROM "items" WHERE ("items"."id" = 4) 
+Item Exists (0.000350)  SELECT "items".id FROM "items" WHERE ("items"."id" = 1) LIMIT 1
+Item Load (0.000628)  SELECT * FROM "items" WHERE ("items"."id" = 1) 
+Item Load (0.001714)  SELECT * FROM "items" 
+Unit Load (0.000361)  SELECT * FROM "units" 
+Item Load (0.001705)  SELECT * FROM "items" 
+Unit Load (0.000351)  SELECT * FROM "units" 
+Item Load (0.002424)  SELECT * FROM "items" 
+Unit Load (0.000509)  SELECT * FROM "units" 
+Item Load (0.001744)  SELECT * FROM "items" 
+Unit Load (0.000355)  SELECT * FROM "units" 
+Item Exists (0.000408)  SELECT "items".id FROM "items" WHERE ("items"."id" = 5) LIMIT 1
+Item Load (0.000616)  SELECT * FROM "items" WHERE ("items"."id" = 5) 
+Item Exists (0.000344)  SELECT "items".id FROM "items" WHERE ("items"."id" = 4) LIMIT 1
+Item Load (0.000582)  SELECT * FROM "items" WHERE ("items"."id" = 4) 
+Item Load (0.001704)  SELECT * FROM "items" 
+Unit Load (0.000371)  SELECT * FROM "units" 
+Item Create (0.000724)  INSERT INTO "items" ("unit_id", "stock_buffer", "logistic_type", "mpoq", "lead_time", "description", "search_key") VALUES(NULL, NULL, NULL, NULL, NULL, NULL, '??')
+Item Load (0.001817)  SELECT * FROM "items" 
+Item Load (0.002622)  SELECT * FROM "items" 
+Item Load (0.001801)  SELECT * FROM "items" 
+Unit Load (0.000360)  SELECT * FROM "units" 
+Item Exists (0.000393)  SELECT "items".id FROM "items" WHERE ("items"."id" = 9) LIMIT 1
+Item Load (0.000523)  SELECT * FROM "items" WHERE ("items"."id" = 9) 
+Item Load (0.001809)  SELECT * FROM "items" 
+Unit Load (0.000372)  SELECT * FROM "units" 
+Item Exists (0.000397)  SELECT "items".id FROM "items" WHERE ("items"."id" = 9) LIMIT 1
+Item Load (0.000532)  SELECT * FROM "items" WHERE ("items"."id" = 9) 
+Item Load (0.001825)  SELECT * FROM "items" 
+Unit Load (0.000360)  SELECT * FROM "units" 
+Item Exists (0.000401)  SELECT "items".id FROM "items" WHERE ("items"."id" = 9) LIMIT 1
+Item Load (0.000543)  SELECT * FROM "items" WHERE ("items"."id" = 9) 
+Item Update (0.000757)  UPDATE "items" SET "lead_time" = 60, "search_key" = 'RED01', "logistic_type" = 'R', "stock_buffer" = 0.5, "mpoq" = 1.0, "description" = 'Warna Merah 01' WHERE "id" = 9
+Item Exists (0.000477)  SELECT "items".id FROM "items" WHERE ("items"."id" = 8) LIMIT 1
+Item Load (0.000761)  SELECT * FROM "items" WHERE ("items"."id" = 8) 
+Item Exists (0.000364)  SELECT "items".id FROM "items" WHERE ("items"."id" = 9) LIMIT 1
+Item Load (0.000602)  SELECT * FROM "items" WHERE ("items"."id" = 9) 
+Item Load (0.001860)  SELECT * FROM "items" 
+Unit Load (0.000352)  SELECT * FROM "units" 
+Item Exists (0.000425)  SELECT "items".id FROM "items" WHERE ("items"."id" = 9) LIMIT 1
+Item Load (0.000573)  SELECT * FROM "items" WHERE ("items"."id" = 9) 
+Item Exists (0.000399)  SELECT "items".id FROM "items" WHERE ("items"."id" = 8) LIMIT 1
+Item Load (0.000578)  SELECT * FROM "items" WHERE ("items"."id" = 8) 
+Item Exists (0.000350)  SELECT "items".id FROM "items" WHERE ("items"."id" = 9) LIMIT 1
+Item Load (0.000581)  SELECT * FROM "items" WHERE ("items"."id" = 9) 
+Item Exists (0.000348)  SELECT "items".id FROM "items" WHERE ("items"."id" = 8) LIMIT 1
+Item Load (0.000575)  SELECT * FROM "items" WHERE ("items"."id" = 8) 
+Item Create (0.000817)  INSERT INTO "items" ("unit_id", "stock_buffer", "logistic_type", "mpoq", "lead_time", "description", "search_key") VALUES(NULL, 0.0, NULL, 0.0, 1, '??', '??')
+Item Load (0.002026)  SELECT * FROM "items" 
+Item Exists (0.000365)  SELECT "items".id FROM "items" WHERE ("items"."id" = 10) LIMIT 1
+Item Load (0.000567)  SELECT * FROM "items" WHERE ("items"."id" = 10) 
+Item Load (0.002824)  SELECT * FROM "items" 
+Unit Load (0.000785)  SELECT * FROM "units" 
+Item Exists (0.000419)  SELECT "items".id FROM "items" WHERE ("items"."id" = 9) LIMIT 1
+Item Load (0.000588)  SELECT * FROM "items" WHERE ("items"."id" = 9) 
+Item Load (0.001928)  SELECT * FROM "items" 
+Unit Load (0.000435)  SELECT * FROM "units" 
+Item Load (0.002816)  SELECT * FROM "items" 
+Unit Load (0.000591)  SELECT * FROM "units" 
+Item Exists (0.000398)  SELECT "items".id FROM "items" WHERE ("items"."id" = 8) LIMIT 1
+Item Load (0.000638)  SELECT * FROM "items" WHERE ("items"."id" = 8) 
+Item Exists (0.000353)  SELECT "items".id FROM "items" WHERE ("items"."id" = 7) LIMIT 1
+Item Load (0.000582)  SELECT * FROM "items" WHERE ("items"."id" = 7) 
+Item Exists (0.000347)  SELECT "items".id FROM "items" WHERE ("items"."id" = 6) LIMIT 1
+Item Load (0.000586)  SELECT * FROM "items" WHERE ("items"."id" = 6) 
+Item Exists (0.000346)  SELECT "items".id FROM "items" WHERE ("items"."id" = 5) LIMIT 1
+Item Load (0.000603)  SELECT * FROM "items" WHERE ("items"."id" = 5) 
+Item Exists (0.000367)  SELECT "items".id FROM "items" WHERE ("items"."id" = 4) LIMIT 1
+Item Load (0.000579)  SELECT * FROM "items" WHERE ("items"."id" = 4) 
+Item Exists (0.000356)  SELECT "items".id FROM "items" WHERE ("items"."id" = 1) LIMIT 1
+Item Load (0.000581)  SELECT * FROM "items" WHERE ("items"."id" = 1) 
+Item Exists (0.000355)  SELECT "items".id FROM "items" WHERE ("items"."id" = 8) LIMIT 1
+Item Load (0.000577)  SELECT * FROM "items" WHERE ("items"."id" = 8) 
+Item Exists (0.000423)  SELECT "items".id FROM "items" WHERE ("items"."id" = 10) LIMIT 1
+Item Load (0.000620)  SELECT * FROM "items" WHERE ("items"."id" = 10) 
+Item Load (0.002922)  SELECT * FROM "items" 
+Unit Load (0.000583)  SELECT * FROM "units" 
+Item Exists (0.000407)  SELECT "items".id FROM "items" WHERE ("items"."id" = 10) LIMIT 1
+Item Load (0.000556)  SELECT * FROM "items" WHERE ("items"."id" = 10) 
+Item Update (0.017222)  UPDATE "items" SET "search_key" = 'M' WHERE "id" = 10
+Item Exists (0.000355)  SELECT "items".id FROM "items" WHERE ("items"."id" = 9) LIMIT 1
+Item Load (0.000559)  SELECT * FROM "items" WHERE ("items"."id" = 9) 
+Item Exists (0.000359)  SELECT "items".id FROM "items" WHERE ("items"."id" = 10) LIMIT 1
+Item Load (0.000566)  SELECT * FROM "items" WHERE ("items"."id" = 10) 
+Item Exists (0.000342)  SELECT "items".id FROM "items" WHERE ("items"."id" = 9) LIMIT 1
+Item Load (0.000561)  SELECT * FROM "items" WHERE ("items"."id" = 9) 
+Item Exists (0.000345)  SELECT "items".id FROM "items" WHERE ("items"."id" = 10) LIMIT 1
+Item Load (0.000584)  SELECT * FROM "items" WHERE ("items"."id" = 10) 
+Item Load (0.018137)  SELECT * FROM "items" 
+Unit Load (0.000582)  SELECT * FROM "units" 
+Item Exists (0.000393)  SELECT "items".id FROM "items" WHERE ("items"."id" = 1) LIMIT 1
+Item Load (0.000560)  SELECT * FROM "items" WHERE ("items"."id" = 1) 
+Unit Load (0.000459)  SELECT * FROM "units" WHERE ("units"."id" = 1) 
+Item Exists (0.000410)  SELECT "items".id FROM "items" WHERE ("items"."id" = 4) LIMIT 1
+Item Load (0.000564)  SELECT * FROM "items" WHERE ("items"."id" = 4) 
+Unit Load (0.000457)  SELECT * FROM "units" WHERE ("units"."id" = 1) 
+Item Exists (0.000384)  SELECT "items".id FROM "items" WHERE ("items"."id" = 5) LIMIT 1
+Item Load (0.000567)  SELECT * FROM "items" WHERE ("items"."id" = 5) 
+Unit Load (0.000459)  SELECT * FROM "units" WHERE ("units"."id" = 1) 
+Item Exists (0.000389)  SELECT "items".id FROM "items" WHERE ("items"."id" = 6) LIMIT 1
+Item Load (0.000586)  SELECT * FROM "items" WHERE ("items"."id" = 6) 
+Unit Load (0.000473)  SELECT * FROM "units" WHERE ("units"."id" = 1) 
+Item Exists (0.000685)  SELECT "items".id FROM "items" WHERE ("items"."id" = 7) LIMIT 1
+Item Load (0.000585)  SELECT * FROM "items" WHERE ("items"."id" = 7) 
+Unit Load (0.000451)  SELECT * FROM "units" WHERE ("units"."id" = 1) 
+Item Exists (0.000385)  SELECT "items".id FROM "items" WHERE ("items"."id" = 8) LIMIT 1
+Item Load (0.000568)  SELECT * FROM "items" WHERE ("items"."id" = 8) 
+Unit Load (0.000471)  SELECT * FROM "units" WHERE ("units"."id" = 1) 
+Item Exists (0.000384)  SELECT "items".id FROM "items" WHERE ("items"."id" = 9) LIMIT 1
+Item Load (0.000574)  SELECT * FROM "items" WHERE ("items"."id" = 9) 
+Item Exists (0.000386)  SELECT "items".id FROM "items" WHERE ("items"."id" = 10) LIMIT 1
+Item Load (0.000553)  SELECT * FROM "items" WHERE ("items"."id" = 10) 
+Item Exists (0.000384)  SELECT "items".id FROM "items" WHERE ("items"."id" = 9) LIMIT 1
+Item Load (0.000562)  SELECT * FROM "items" WHERE ("items"."id" = 9) 
+Item Exists (0.000386)  SELECT "items".id FROM "items" WHERE ("items"."id" = 10) LIMIT 1
+Item Load (0.000565)  SELECT * FROM "items" WHERE ("items"."id" = 10) 
+Item Exists (0.000423)  SELECT "items".id FROM "items" WHERE ("items"."id" = 9) LIMIT 1
+Item Load (0.000562)  SELECT * FROM "items" WHERE ("items"."id" = 9) 
+Item Exists (0.000412)  SELECT "items".id FROM "items" WHERE ("items"."id" = 10) LIMIT 1
+Item Load (0.000554)  SELECT * FROM "items" WHERE ("items"."id" = 10) 
+Item Exists (0.000386)  SELECT "items".id FROM "items" WHERE ("items"."id" = 9) LIMIT 1
+Item Load (0.000573)  SELECT * FROM "items" WHERE ("items"."id" = 9) 
+Item Exists (0.000393)  SELECT "items".id FROM "items" WHERE ("items"."id" = 10) LIMIT 1
+Item Load (0.000553)  SELECT * FROM "items" WHERE ("items"."id" = 10) 
+Item Exists (0.000385)  SELECT "items".id FROM "items" WHERE ("items"."id" = 9) LIMIT 1
+Item Load (0.000567)  SELECT * FROM "items" WHERE ("items"."id" = 9) 
+Item Exists (0.000385)  SELECT "items".id FROM "items" WHERE ("items"."id" = 10) LIMIT 1
+Item Load (0.000554)  SELECT * FROM "items" WHERE ("items"."id" = 10) 
+Item Load (0.002838)  SELECT * FROM "items" 
+Unit Load (0.000768)  SELECT * FROM "units" 
+Item Exists (0.000412)  SELECT "items".id FROM "items" WHERE ("items"."id" = 10) LIMIT 1
+Item Load (0.000561)  SELECT * FROM "items" WHERE ("items"."id" = 10) 
+Item Exists (0.000389)  SELECT "items".id FROM "items" WHERE ("items"."id" = 9) LIMIT 1
+Item Load (0.000559)  SELECT * FROM "items" WHERE ("items"."id" = 9) 
+Item Exists (0.000382)  SELECT "items".id FROM "items" WHERE ("items"."id" = 8) LIMIT 1
+Item Load (0.000576)  SELECT * FROM "items" WHERE ("items"."id" = 8) 
+Unit Load (0.000463)  SELECT * FROM "units" WHERE ("units"."id" = 1) 
+Item Exists (0.000386)  SELECT "items".id FROM "items" WHERE ("items"."id" = 9) LIMIT 1
+Item Load (0.000588)  SELECT * FROM "items" WHERE ("items"."id" = 9) 
+Item Exists (0.000385)  SELECT "items".id FROM "items" WHERE ("items"."id" = 8) LIMIT 1
+Item Load (0.000575)  SELECT * FROM "items" WHERE ("items"."id" = 8) 
+Unit Load (0.000462)  SELECT * FROM "units" WHERE ("units"."id" = 1) 
+Item Exists (0.000384)  SELECT "items".id FROM "items" WHERE ("items"."id" = 9) LIMIT 1
+Item Load (0.000569)  SELECT * FROM "items" WHERE ("items"."id" = 9) 
+Item Exists (0.000383)  SELECT "items".id FROM "items" WHERE ("items"."id" = 8) LIMIT 1
+Item Load (0.000580)  SELECT * FROM "items" WHERE ("items"."id" = 8) 
+Unit Load (0.000457)  SELECT * FROM "units" WHERE ("units"."id" = 1) 
+Item Exists (0.000300)  SELECT "items".id FROM "items" WHERE ("items"."id" = 9) LIMIT 1
+Item Load (0.000404)  SELECT * FROM "items" WHERE ("items"."id" = 9) 
+Item Exists (0.000382)  SELECT "items".id FROM "items" WHERE ("items"."id" = 10) LIMIT 1
+Item Load (0.000617)  SELECT * FROM "items" WHERE ("items"."id" = 10) 
+Unit Load (0.000487)  SELECT * FROM "units" WHERE ("units"."id" = 2) 
+Item Update (0.000664)  UPDATE "items" SET "lead_time" = 60, "search_key" = 'RED02', "logistic_type" = 'R', "stock_buffer" = 0.5, "mpoq" = 1.0, "unit_id" = 2, "description" = 'Warna Merah 02' WHERE "id" = 10
+Item Exists (0.000398)  SELECT "items".id FROM "items" WHERE ("items"."id" = 9) LIMIT 1
+Item Load (0.000562)  SELECT * FROM "items" WHERE ("items"."id" = 9) 
+Item Exists (0.000421)  SELECT "items".id FROM "items" WHERE ("items"."id" = 10) LIMIT 1
+Item Load (0.000589)  SELECT * FROM "items" WHERE ("items"."id" = 10) 
+Unit Load (0.000454)  SELECT * FROM "units" WHERE ("units"."id" = 2) 
+Item Exists (0.000385)  SELECT "items".id FROM "items" WHERE ("items"."id" = 9) LIMIT 1
+Item Load (0.000573)  SELECT * FROM "items" WHERE ("items"."id" = 9) 
+Unit Load (0.000500)  SELECT * FROM "units" WHERE ("units"."id" = 2) 
+Item Update (0.000373)  UPDATE "items" SET "unit_id" = 2 WHERE "id" = 9
+Item Exists (0.000402)  SELECT "items".id FROM "items" WHERE ("items"."id" = 10) LIMIT 1
+Item Load (0.000581)  SELECT * FROM "items" WHERE ("items"."id" = 10) 
+Unit Load (0.000454)  SELECT * FROM "units" WHERE ("units"."id" = 2) 
+Item Exists (0.000389)  SELECT "items".id FROM "items" WHERE ("items"."id" = 9) LIMIT 1
+Item Load (0.000586)  SELECT * FROM "items" WHERE ("items"."id" = 9) 
+Unit Load (0.000509)  SELECT * FROM "units" WHERE ("units"."id" = 2) 
+Item Exists (0.000382)  SELECT "items".id FROM "items" WHERE ("items"."id" = 8) LIMIT 1
+Item Load (0.000589)  SELECT * FROM "items" WHERE ("items"."id" = 8) 
+Unit Load (0.000460)  SELECT * FROM "units" WHERE ("units"."id" = 1) 
+Item Exists (0.000383)  SELECT "items".id FROM "items" WHERE ("items"."id" = 7) LIMIT 1
+Item Load (0.000590)  SELECT * FROM "items" WHERE ("items"."id" = 7) 
+Unit Load (0.000478)  SELECT * FROM "units" WHERE ("units"."id" = 1) 
+Item Exists (0.000387)  SELECT "items".id FROM "items" WHERE ("items"."id" = 6) LIMIT 1
+Item Load (0.000581)  SELECT * FROM "items" WHERE ("items"."id" = 6) 
+Unit Load (0.000455)  SELECT * FROM "units" WHERE ("units"."id" = 1) 
+Item Exists (0.000386)  SELECT "items".id FROM "items" WHERE ("items"."id" = 5) LIMIT 1
+Item Load (0.000651)  SELECT * FROM "items" WHERE ("items"."id" = 5) 
+Unit Load (0.000469)  SELECT * FROM "units" WHERE ("units"."id" = 1) 
+Item Exists (0.000384)  SELECT "items".id FROM "items" WHERE ("items"."id" = 4) LIMIT 1
+Item Load (0.000613)  SELECT * FROM "items" WHERE ("items"."id" = 4) 
+Unit Load (0.000454)  SELECT * FROM "units" WHERE ("units"."id" = 1) 
+Item Exists (0.000379)  SELECT "items".id FROM "items" WHERE ("items"."id" = 1) LIMIT 1
+Item Load (0.000585)  SELECT * FROM "items" WHERE ("items"."id" = 1) 
+Unit Load (0.000475)  SELECT * FROM "units" WHERE ("units"."id" = 1) 
+Item Load (0.001940)  SELECT * FROM "items" 
+Unit Load (0.000429)  SELECT * FROM "units" 
+Item Exists (0.000418)  SELECT "items".id FROM "items" WHERE ("items"."id" = 9) LIMIT 1
+Item Load (0.000571)  SELECT * FROM "items" WHERE ("items"."id" = 9) 
+Unit Load (0.000450)  SELECT * FROM "units" WHERE ("units"."id" = 2) 
+Unit Load (0.000480)  SELECT * FROM "units" WHERE ("units"."id" = 2) 
+Item Update (0.000644)  UPDATE "items" SET "stock_buffer" = 0.6 WHERE "id" = 9
+Item Exists (0.000353)  SELECT "items".id FROM "items" WHERE ("items"."id" = 10) LIMIT 1
+Item Load (0.000499)  SELECT * FROM "items" WHERE ("items"."id" = 10) 
+Unit Load (0.000454)  SELECT * FROM "units" WHERE ("units"."id" = 2) 
+Item Exists (0.000407)  SELECT "items".id FROM "items" WHERE ("items"."id" = 9) LIMIT 1
+Item Load (0.000655)  SELECT * FROM "items" WHERE ("items"."id" = 9) 
+Unit Load (0.000491)  SELECT * FROM "units" WHERE ("units"."id" = 2) 
+Item Exists (0.000378)  SELECT "items".id FROM "items" WHERE ("items"."id" = 8) LIMIT 1
+Item Load (0.000567)  SELECT * FROM "items" WHERE ("items"."id" = 8) 
+Unit Load (0.000447)  SELECT * FROM "units" WHERE ("units"."id" = 1) 
+Item Exists (0.000383)  SELECT "items".id FROM "items" WHERE ("items"."id" = 7) LIMIT 1
+Item Load (0.000562)  SELECT * FROM "items" WHERE ("items"."id" = 7) 
+Unit Load (0.000448)  SELECT * FROM "units" WHERE ("units"."id" = 1) 
+Item Exists (0.000375)  SELECT "items".id FROM "items" WHERE ("items"."id" = 6) LIMIT 1
+Item Load (0.000572)  SELECT * FROM "items" WHERE ("items"."id" = 6) 
+Unit Load (0.000444)  SELECT * FROM "units" WHERE ("units"."id" = 1) 
+Item Exists (0.000489)  SELECT "items".id FROM "items" WHERE ("items"."id" = 5) LIMIT 1
+Item Load (0.000587)  SELECT * FROM "items" WHERE ("items"."id" = 5) 
+Unit Load (0.000448)  SELECT * FROM "units" WHERE ("units"."id" = 1) 
+Item Exists (0.000380)  SELECT "items".id FROM "items" WHERE ("items"."id" = 4) LIMIT 1
+Item Load (0.000576)  SELECT * FROM "items" WHERE ("items"."id" = 4) 
+Unit Load (0.000451)  SELECT * FROM "units" WHERE ("units"."id" = 1) 
+Item Exists (0.000378)  SELECT "items".id FROM "items" WHERE ("items"."id" = 1) LIMIT 1
+Item Load (0.000560)  SELECT * FROM "items" WHERE ("items"."id" = 1) 
+Unit Load (0.000445)  SELECT * FROM "units" WHERE ("units"."id" = 1) 
+Item Exists (0.000384)  SELECT "items".id FROM "items" WHERE ("items"."id" = 4) LIMIT 1
+Item Load (0.000562)  SELECT * FROM "items" WHERE ("items"."id" = 4) 
+Unit Load (0.000449)  SELECT * FROM "units" WHERE ("units"."id" = 1) 
+Item Exists (0.000380)  SELECT "items".id FROM "items" WHERE ("items"."id" = 5) LIMIT 1
+Item Load (0.000566)  SELECT * FROM "items" WHERE ("items"."id" = 5) 
+Unit Load (0.000453)  SELECT * FROM "units" WHERE ("units"."id" = 1) 
+Item Exists (0.000378)  SELECT "items".id FROM "items" WHERE ("items"."id" = 6) LIMIT 1
+Item Load (0.000583)  SELECT * FROM "items" WHERE ("items"."id" = 6) 
+Unit Load (0.000446)  SELECT * FROM "units" WHERE ("units"."id" = 1) 
+Item Exists (0.000385)  SELECT "items".id FROM "items" WHERE ("items"."id" = 7) LIMIT 1
+Item Load (0.000564)  SELECT * FROM "items" WHERE ("items"."id" = 7) 
+Unit Load (0.000473)  SELECT * FROM "units" WHERE ("units"."id" = 1) 
+Item Exists (0.000380)  SELECT "items".id FROM "items" WHERE ("items"."id" = 8) LIMIT 1
+Item Load (0.000575)  SELECT * FROM "items" WHERE ("items"."id" = 8) 
+Unit Load (0.000452)  SELECT * FROM "units" WHERE ("units"."id" = 1) 
+Item Exists (0.000385)  SELECT "items".id FROM "items" WHERE ("items"."id" = 9) LIMIT 1
+Item Load (0.000643)  SELECT * FROM "items" WHERE ("items"."id" = 9) 
+Unit Load (0.000482)  SELECT * FROM "units" WHERE ("units"."id" = 2) 
+Item Exists (0.000380)  SELECT "items".id FROM "items" WHERE ("items"."id" = 10) LIMIT 1
+Item Load (0.000581)  SELECT * FROM "items" WHERE ("items"."id" = 10) 
+Unit Load (0.000450)  SELECT * FROM "units" WHERE ("units"."id" = 2) 
+Item Exists (0.000377)  SELECT "items".id FROM "items" WHERE ("items"."id" = 9) LIMIT 1
+Item Load (0.000567)  SELECT * FROM "items" WHERE ("items"."id" = 9) 
+Unit Load (0.000449)  SELECT * FROM "units" WHERE ("units"."id" = 2) 
+Item Exists (0.000469)  SELECT "items".id FROM "items" WHERE ("items"."id" = 8) LIMIT 1
+Item Load (0.000576)  SELECT * FROM "items" WHERE ("items"."id" = 8) 
+Unit Load (0.000445)  SELECT * FROM "units" WHERE ("units"."id" = 1) 
+Item Load (0.001988)  SELECT * FROM "items" 
+Unit Load (0.000439)  SELECT * FROM "units" 
+Item Exists (0.000399)  SELECT "items".id FROM "items" WHERE ("items"."id" = 10) LIMIT 1
+Item Load (0.000574)  SELECT * FROM "items" WHERE ("items"."id" = 10) 
+Unit Load (0.000544)  SELECT * FROM "units" WHERE ("units"."id" = 2) 
+Item Exists (0.000388)  SELECT "items".id FROM "items" WHERE ("items"."id" = 9) LIMIT 1
+Item Load (0.000560)  SELECT * FROM "items" WHERE ("items"."id" = 9) 
+Unit Load (0.000459)  SELECT * FROM "units" WHERE ("units"."id" = 2) 
+Unit Load (0.000597)  SELECT * FROM "units" WHERE ("units"."id" = 2) 
+Item Update (0.000644)  UPDATE "items" SET "stock_buffer" = 0.5 WHERE "id" = 9
+Item Exists (0.000405)  SELECT "items".id FROM "items" WHERE ("items"."id" = 8) LIMIT 1
+Item Load (0.000601)  SELECT * FROM "items" WHERE ("items"."id" = 8) 
+Unit Load (0.000461)  SELECT * FROM "units" WHERE ("units"."id" = 1) 
+Item Exists (0.000384)  SELECT "items".id FROM "items" WHERE ("items"."id" = 9) LIMIT 1
+Item Load (0.000627)  SELECT * FROM "items" WHERE ("items"."id" = 9) 
+Unit Load (0.000458)  SELECT * FROM "units" WHERE ("units"."id" = 2) 
+Item Exists (0.000401)  SELECT "items".id FROM "items" WHERE ("items"."id" = 10) LIMIT 1
+Item Load (0.000592)  SELECT * FROM "items" WHERE ("items"."id" = 10) 
+Unit Load (0.000453)  SELECT * FROM "units" WHERE ("units"."id" = 2) 
+Unit Load (0.000488)  SELECT * FROM "units" WHERE ("units"."id" = 2) 
+Item Update (0.000375)  UPDATE "items" SET "description" = 'Warna Merah 02a' WHERE "id" = 10
+Unit Load (0.000508)  SELECT * FROM "units" WHERE ("units"."id" = 2) 
+Item Update (0.000378)  UPDATE "items" SET "description" = 'Warna Merah 02' WHERE "id" = 10
+Item Exists (0.000440)  SELECT "items".id FROM "items" WHERE ("items"."id" = 9) LIMIT 1
+Item Load (0.000591)  SELECT * FROM "items" WHERE ("items"."id" = 9) 
+Unit Load (0.000458)  SELECT * FROM "units" WHERE ("units"."id" = 2) 
+Item Exists (0.000386)  SELECT "items".id FROM "items" WHERE ("items"."id" = 10) LIMIT 1
+Item Load (0.000573)  SELECT * FROM "items" WHERE ("items"."id" = 10) 
+Unit Load (0.000491)  SELECT * FROM "units" WHERE ("units"."id" = 2) 
+Item Exists (0.000419)  SELECT "items".id FROM "items" WHERE ("items"."id" = 9) LIMIT 1
+Item Load (0.000599)  SELECT * FROM "items" WHERE ("items"."id" = 9) 
+Unit Load (0.000458)  SELECT * FROM "units" WHERE ("units"."id" = 2) 
+Item Exists (0.000387)  SELECT "items".id FROM "items" WHERE ("items"."id" = 8) LIMIT 1
+Item Load (0.000576)  SELECT * FROM "items" WHERE ("items"."id" = 8) 
+Unit Load (0.000464)  SELECT * FROM "units" WHERE ("units"."id" = 1) 
+Item Exists (0.000385)  SELECT "items".id FROM "items" WHERE ("items"."id" = 6) LIMIT 1
+Item Load (0.000601)  SELECT * FROM "items" WHERE ("items"."id" = 6) 
+Unit Load (0.000464)  SELECT * FROM "units" WHERE ("units"."id" = 1) 
+Item Exists (0.000386)  SELECT "items".id FROM "items" WHERE ("items"."id" = 5) LIMIT 1
+Item Load (0.000576)  SELECT * FROM "items" WHERE ("items"."id" = 5) 
+Unit Load (0.000471)  SELECT * FROM "units" WHERE ("units"."id" = 1) 
+Item Load (0.002535)  SELECT * FROM "items" 
+Unit Load (0.000441)  SELECT * FROM "units" 
+Item Exists (0.000389)  SELECT "items".id FROM "items" WHERE ("items"."id" = 10) LIMIT 1
+Item Load (0.000560)  SELECT * FROM "items" WHERE ("items"."id" = 10) 
+Unit Load (0.000459)  SELECT * FROM "units" WHERE ("units"."id" = 2) 
+Unit Load (0.000482)  SELECT * FROM "units" WHERE ("units"."id" = 2) 
+Unit Load (0.000484)  SELECT * FROM "units" WHERE ("units"."id" = 2) 
+Item Update (0.000648)  UPDATE "items" SET "description" = 'Warna Merah 02a' WHERE "id" = 10
+Unit Load (0.000498)  SELECT * FROM "units" WHERE ("units"."id" = 2) 
+Item Update (0.000374)  UPDATE "items" SET "description" = 'Warna Merah 02' WHERE "id" = 10
+Unit Load (0.000507)  SELECT * FROM "units" WHERE ("units"."id" = 2) 
+Item Update (0.000376)  UPDATE "items" SET "stock_buffer" = 0.6 WHERE "id" = 10
+Item Load (0.002813)  SELECT * FROM "items" 
+Unit Load (0.000756)  SELECT * FROM "units" 
+Item Exists (0.000392)  SELECT "items".id FROM "items" WHERE ("items"."id" = 9) LIMIT 1
+Item Load (0.000559)  SELECT * FROM "items" WHERE ("items"."id" = 9) 
+Unit Load (0.000465)  SELECT * FROM "units" WHERE ("units"."id" = 2) 
+Item Exists (0.000385)  SELECT "items".id FROM "items" WHERE ("items"."id" = 8) LIMIT 1
+Item Load (0.000595)  SELECT * FROM "items" WHERE ("items"."id" = 8) 
+Unit Load (0.000457)  SELECT * FROM "units" WHERE ("units"."id" = 1) 
+Unit Load (0.000483)  SELECT * FROM "units" WHERE ("units"."id" = 1) 
+Item Update (0.000641)  UPDATE "items" SET "description" = 'Base Lipstick oo' WHERE "id" = 8
+Unit Load (0.000504)  SELECT * FROM "units" WHERE ("units"."id" = 1) 
+Item Update (0.000378)  UPDATE "items" SET "description" = 'Base Lipstick' WHERE "id" = 8
+Item Load (0.002869)  SELECT * FROM "items" 
+Unit Load (0.000595)  SELECT * FROM "units" 
+Item Exists (0.000388)  SELECT "items".id FROM "items" WHERE ("items"."id" = 10) LIMIT 1
+Item Load (0.000710)  SELECT * FROM "items" WHERE ("items"."id" = 10) 
+Unit Load (0.000476)  SELECT * FROM "units" WHERE ("units"."id" = 2) 
+Unit Load (0.000361)  SELECT * FROM "units" WHERE ("units"."id" = 2) 
+Item Update (0.000512)  UPDATE "items" SET "stock_buffer" = 0.5 WHERE "id" = 10
+Item Exists (0.000400)  SELECT "items".id FROM "items" WHERE ("items"."id" = 9) LIMIT 1
+Item Load (0.000562)  SELECT * FROM "items" WHERE ("items"."id" = 9) 
+Unit Load (0.000448)  SELECT * FROM "units" WHERE ("units"."id" = 2) 
+Item Exists (0.000389)  SELECT "items".id FROM "items" WHERE ("items"."id" = 8) LIMIT 1
+Item Load (0.000588)  SELECT * FROM "items" WHERE ("items"."id" = 8) 
+Unit Load (0.000449)  SELECT * FROM "units" WHERE ("units"."id" = 1) 
+Item Exists (0.000381)  SELECT "items".id FROM "items" WHERE ("items"."id" = 7) LIMIT 1
+Item Load (0.000585)  SELECT * FROM "items" WHERE ("items"."id" = 7) 
+Unit Load (0.000450)  SELECT * FROM "units" WHERE ("units"."id" = 1) 
+Item Exists (0.000383)  SELECT "items".id FROM "items" WHERE ("items"."id" = 9) LIMIT 1
+Item Load (0.000586)  SELECT * FROM "items" WHERE ("items"."id" = 9) 
+Unit Load (0.000449)  SELECT * FROM "units" WHERE ("units"."id" = 2) 
+Item Exists (0.000382)  SELECT "items".id FROM "items" WHERE ("items"."id" = 10) LIMIT 1
+Item Load (0.000591)  SELECT * FROM "items" WHERE ("items"."id" = 10) 
+Unit Load (0.000445)  SELECT * FROM "units" WHERE ("units"."id" = 2) 
+Item Create (0.021625)  INSERT INTO "items" ("unit_id", "stock_buffer", "logistic_type", "mpoq", "lead_time", "description", "search_key") VALUES(NULL, 0.0, NULL, 0.0, 1, '??', '??')
+Item Load (0.002398)  SELECT * FROM "items" 
+Item Exists (0.000396)  SELECT "items".id FROM "items" WHERE ("items"."id" = 11) LIMIT 1
+Item Load (0.000561)  SELECT * FROM "items" WHERE ("items"."id" = 11) 
+Unit Load (0.000480)  SELECT * FROM "units" WHERE ("units"."id" = 1) 
+Item Update (0.000407)  UPDATE "items" SET "lead_time" = 14, "search_key" = 'STICLP01', "logistic_type" = 'P', "stock_buffer" = 1000.0, "mpoq" = 5000.0, "unit_id" = 1, "description" = 'Sticker Lipstick 01' WHERE "id" = 11
+Unit Load (0.000502)  SELECT * FROM "units" WHERE ("units"."id" = 1) 
+Item Create (0.000427)  INSERT INTO "items" ("unit_id", "stock_buffer", "logistic_type", "mpoq", "lead_time", "description", "search_key") VALUES(NULL, 0.0, NULL, 0.0, 1, '??', '??')
+Item Load (0.002475)  SELECT * FROM "items" 
+Item Exists (0.000399)  SELECT "items".id FROM "items" WHERE ("items"."id" = 12) LIMIT 1
+Item Load (0.000564)  SELECT * FROM "items" WHERE ("items"."id" = 12) 
+Unit Load (0.000481)  SELECT * FROM "units" WHERE ("units"."id" = 1) 
+Item Update (0.000440)  UPDATE "items" SET "lead_time" = 14, "search_key" = 'STICLP02', "logistic_type" = 'P', "stock_buffer" = 1000.0, "mpoq" = 5000.0, "unit_id" = 1, "description" = 'Sticker Lipstick 02' WHERE "id" = 12
+Unit Load (0.000487)  SELECT * FROM "units" WHERE ("units"."id" = 1) 
+Unit Load (0.000506)  SELECT * FROM "units" WHERE ("units"."id" = 1) 
+Unit Load (0.000477)  SELECT * FROM "units" WHERE ("units"."id" = 1) 
+Item Exists (0.000382)  SELECT "items".id FROM "items" WHERE ("items"."id" = 11) LIMIT 1
+Item Load (0.000575)  SELECT * FROM "items" WHERE ("items"."id" = 11) 
+Unit Load (0.000463)  SELECT * FROM "units" WHERE ("units"."id" = 1) 
+Item Exists (0.000294)  SELECT "items".id FROM "items" WHERE ("items"."id" = 12) LIMIT 1
+Item Load (0.000403)  SELECT * FROM "items" WHERE ("items"."id" = 12) 
+Unit Load (0.000333)  SELECT * FROM "units" WHERE ("units"."id" = 1) 
+Item Exists (0.000419)  SELECT "items".id FROM "items" WHERE ("items"."id" = 11) LIMIT 1
+Item Load (0.000586)  SELECT * FROM "items" WHERE ("items"."id" = 11) 
+Unit Load (0.000452)  SELECT * FROM "units" WHERE ("units"."id" = 1) 
+Item Exists (0.000336)  SELECT "items".id FROM "items" WHERE ("items"."id" = 10) LIMIT 1
+Item Load (0.000522)  SELECT * FROM "items" WHERE ("items"."id" = 10) 
+Unit Load (0.000421)  SELECT * FROM "units" WHERE ("units"."id" = 2) 
+Item Exists (0.000385)  SELECT "items".id FROM "items" WHERE ("items"."id" = 9) LIMIT 1
+Item Load (0.000592)  SELECT * FROM "items" WHERE ("items"."id" = 9) 
+Unit Load (0.000450)  SELECT * FROM "units" WHERE ("units"."id" = 2) 
+Item Exists (0.000382)  SELECT "items".id FROM "items" WHERE ("items"."id" = 11) LIMIT 1
+Item Load (0.000580)  SELECT * FROM "items" WHERE ("items"."id" = 11) 
+Unit Load (0.000457)  SELECT * FROM "units" WHERE ("units"."id" = 1) 
+Item Exists (0.000299)  SELECT "items".id FROM "items" WHERE ("items"."id" = 12) LIMIT 1
+Item Load (0.000420)  SELECT * FROM "items" WHERE ("items"."id" = 12) 
+Unit Load (0.000332)  SELECT * FROM "units" WHERE ("units"."id" = 1) 
+Item Exists (0.000381)  SELECT "items".id FROM "items" WHERE ("items"."id" = 11) LIMIT 1
+Item Load (0.000606)  SELECT * FROM "items" WHERE ("items"."id" = 11) 
+Unit Load (0.000465)  SELECT * FROM "units" WHERE ("units"."id" = 1) 
+Item Exists (0.000383)  SELECT "items".id FROM "items" WHERE ("items"."id" = 12) LIMIT 1
+Item Load (0.000580)  SELECT * FROM "items" WHERE ("items"."id" = 12) 
+Unit Load (0.000453)  SELECT * FROM "units" WHERE ("units"."id" = 1) 
+Item Create (0.001833)  INSERT INTO "items" ("unit_id", "stock_buffer", "logistic_type", "mpoq", "lead_time", "description", "search_key") VALUES(NULL, 0.0, NULL, 0.0, 1, '??', '??')
+Item Load (0.002697)  SELECT * FROM "items" 
+Item Exists (0.000531)  SELECT "items".id FROM "items" WHERE ("items"."id" = 13) LIMIT 1
+Item Load (0.000565)  SELECT * FROM "items" WHERE ("items"."id" = 13) 
+Unit Load (0.000480)  SELECT * FROM "units" WHERE ("units"."id" = 2) 
+Item Update (0.000402)  UPDATE "items" SET "lead_time" = 120, "search_key" = 'PARFROSE', "logistic_type" = 'R', "stock_buffer" = 0.5, "mpoq" = 2.0, "unit_id" = 2, "description" = 'Parfum Rose' WHERE "id" = 13
+Unit Load (0.000503)  SELECT * FROM "units" WHERE ("units"."id" = 2) 
+Item Create (0.000435)  INSERT INTO "items" ("unit_id", "stock_buffer", "logistic_type", "mpoq", "lead_time", "description", "search_key") VALUES(NULL, 0.0, NULL, 0.0, 1, '??', '??')
+Item Load (0.002923)  SELECT * FROM "items" 
+Item Exists (0.000390)  SELECT "items".id FROM "items" WHERE ("items"."id" = 14) LIMIT 1
+Item Load (0.000570)  SELECT * FROM "items" WHERE ("items"."id" = 14) 
+Unit Load (0.000503)  SELECT * FROM "units" WHERE ("units"."id" = 2) 
+Item Update (0.000423)  UPDATE "items" SET "lead_time" = 60, "search_key" = 'PARFAPP', "logistic_type" = 'R', "stock_buffer" = 0.5, "mpoq" = 1.0, "unit_id" = 2, "description" = 'Parfum Apple' WHERE "id" = 14
+Unit Load (0.000480)  SELECT * FROM "units" WHERE ("units"."id" = 2) 
+Item Exists (0.000408)  SELECT "items".id FROM "items" WHERE ("items"."id" = 13) LIMIT 1
+Item Load (0.000582)  SELECT * FROM "items" WHERE ("items"."id" = 13) 
+Unit Load (0.000456)  SELECT * FROM "units" WHERE ("units"."id" = 2) 
+Item Exists (0.000385)  SELECT "items".id FROM "items" WHERE ("items"."id" = 12) LIMIT 1
+Item Load (0.000578)  SELECT * FROM "items" WHERE ("items"."id" = 12) 
+Unit Load (0.000454)  SELECT * FROM "units" WHERE ("units"."id" = 1) 
+Item Exists (0.000382)  SELECT "items".id FROM "items" WHERE ("items"."id" = 11) LIMIT 1
+Item Load (0.000582)  SELECT * FROM "items" WHERE ("items"."id" = 11) 
+Unit Load (0.000467)  SELECT * FROM "units" WHERE ("units"."id" = 1) 
+Item Exists (0.000420)  SELECT "items".id FROM "items" WHERE ("items"."id" = 10) LIMIT 1
+Item Load (0.000595)  SELECT * FROM "items" WHERE ("items"."id" = 10) 
+Unit Load (0.000453)  SELECT * FROM "units" WHERE ("units"."id" = 2) 
+Item Exists (0.000385)  SELECT "items".id FROM "items" WHERE ("items"."id" = 9) LIMIT 1
+Item Load (0.000580)  SELECT * FROM "items" WHERE ("items"."id" = 9) 
+Unit Load (0.000448)  SELECT * FROM "units" WHERE ("units"."id" = 2) 
+Item Exists (0.000381)  SELECT "items".id FROM "items" WHERE ("items"."id" = 7) LIMIT 1
+Item Load (0.000649)  SELECT * FROM "items" WHERE ("items"."id" = 7) 
+Unit Load (0.000462)  SELECT * FROM "units" WHERE ("units"."id" = 1) 
+Item Exists (0.000387)  SELECT "items".id FROM "items" WHERE ("items"."id" = 6) LIMIT 1
+Item Load (0.000576)  SELECT * FROM "items" WHERE ("items"."id" = 6) 
+Unit Load (0.000469)  SELECT * FROM "units" WHERE ("units"."id" = 1) 
+Item Exists (0.000379)  SELECT "items".id FROM "items" WHERE ("items"."id" = 5) LIMIT 1
+Item Load (0.000591)  SELECT * FROM "items" WHERE ("items"."id" = 5) 
+Unit Load (0.000454)  SELECT * FROM "units" WHERE ("units"."id" = 1) 
+Item Exists (0.000382)  SELECT "items".id FROM "items" WHERE ("items"."id" = 4) LIMIT 1
+Item Load (0.000581)  SELECT * FROM "items" WHERE ("items"."id" = 4) 
+Unit Load (0.000450)  SELECT * FROM "units" WHERE ("units"."id" = 1) 
+Item Exists (0.000299)  SELECT "items".id FROM "items" WHERE ("items"."id" = 1) LIMIT 1
+Item Load (0.000441)  SELECT * FROM "items" WHERE ("items"."id" = 1) 
+Unit Load (0.000330)  SELECT * FROM "units" WHERE ("units"."id" = 1) 
+Item Exists (0.000381)  SELECT "items".id FROM "items" WHERE ("items"."id" = 4) LIMIT 1
+Item Load (0.000575)  SELECT * FROM "items" WHERE ("items"."id" = 4) 
+Unit Load (0.000456)  SELECT * FROM "units" WHERE ("units"."id" = 1) 
+Item Exists (0.000384)  SELECT "items".id FROM "items" WHERE ("items"."id" = 5) LIMIT 1
+Item Load (0.000602)  SELECT * FROM "items" WHERE ("items"."id" = 5) 
+Unit Load (0.000448)  SELECT * FROM "units" WHERE ("units"."id" = 1) 
+Item Exists (0.000385)  SELECT "items".id FROM "items" WHERE ("items"."id" = 6) LIMIT 1
+Item Load (0.000598)  SELECT * FROM "items" WHERE ("items"."id" = 6) 
+Unit Load (0.000448)  SELECT * FROM "units" WHERE ("units"."id" = 1) 
+Item Exists (0.000409)  SELECT "items".id FROM "items" WHERE ("items"."id" = 8) LIMIT 1
+Item Load (0.006911)  SELECT * FROM "items" WHERE ("items"."id" = 8) 
+Unit Load (0.000650)  SELECT * FROM "units" WHERE ("units"."id" = 1) 
+Item Exists (0.000384)  SELECT "items".id FROM "items" WHERE ("items"."id" = 9) LIMIT 1
+Item Load (0.000603)  SELECT * FROM "items" WHERE ("items"."id" = 9) 
+Unit Load (0.000457)  SELECT * FROM "units" WHERE ("units"."id" = 2) 
+Item Exists (0.000384)  SELECT "items".id FROM "items" WHERE ("items"."id" = 11) LIMIT 1
+Item Load (0.000575)  SELECT * FROM "items" WHERE ("items"."id" = 11) 
+Unit Load (0.000454)  SELECT * FROM "units" WHERE ("units"."id" = 1) 
+Item Exists (0.000381)  SELECT "items".id FROM "items" WHERE ("items"."id" = 13) LIMIT 1
+Item Load (0.000600)  SELECT * FROM "items" WHERE ("items"."id" = 13) 
+Unit Load (0.000453)  SELECT * FROM "units" WHERE ("units"."id" = 2) 
+Item Exists (0.000384)  SELECT "items".id FROM "items" WHERE ("items"."id" = 14) LIMIT 1
+Item Load (0.000579)  SELECT * FROM "items" WHERE ("items"."id" = 14) 
+Unit Load (0.000456)  SELECT * FROM "units" WHERE ("units"."id" = 2) 
+Item Exists (0.000387)  SELECT "items".id FROM "items" WHERE ("items"."id" = 13) LIMIT 1
+Item Load (0.000606)  SELECT * FROM "items" WHERE ("items"."id" = 13) 
+Unit Load (0.000452)  SELECT * FROM "units" WHERE ("units"."id" = 2) 
+Item Exists (0.000385)  SELECT "items".id FROM "items" WHERE ("items"."id" = 12) LIMIT 1
+Item Load (0.000612)  SELECT * FROM "items" WHERE ("items"."id" = 12) 
+Unit Load (0.000461)  SELECT * FROM "units" WHERE ("units"."id" = 1) 
+Item Exists (0.000381)  SELECT "items".id FROM "items" WHERE ("items"."id" = 11) LIMIT 1
+Item Load (0.000579)  SELECT * FROM "items" WHERE ("items"."id" = 11) 
+Unit Load (0.000459)  SELECT * FROM "units" WHERE ("units"."id" = 1) 
+Item Exists (0.000385)  SELECT "items".id FROM "items" WHERE ("items"."id" = 14) LIMIT 1
+Item Load (0.000585)  SELECT * FROM "items" WHERE ("items"."id" = 14) 
+Unit Load (0.000452)  SELECT * FROM "units" WHERE ("units"."id" = 2) 
+Item Exists (0.000384)  SELECT "items".id FROM "items" WHERE ("items"."id" = 13) LIMIT 1
+Item Load (0.000580)  SELECT * FROM "items" WHERE ("items"."id" = 13) 
+Unit Load (0.000456)  SELECT * FROM "units" WHERE ("units"."id" = 2) 
+Item Exists (0.000383)  SELECT "items".id FROM "items" WHERE ("items"."id" = 12) LIMIT 1
+Item Load (0.000612)  SELECT * FROM "items" WHERE ("items"."id" = 12) 
+Unit Load (0.000461)  SELECT * FROM "units" WHERE ("units"."id" = 1) 
+Item Exists (0.000385)  SELECT "items".id FROM "items" WHERE ("items"."id" = 11) LIMIT 1
+Item Load (0.000578)  SELECT * FROM "items" WHERE ("items"."id" = 11) 
+Unit Load (0.000464)  SELECT * FROM "units" WHERE ("units"."id" = 1) 
+Item Exists (0.000381)  SELECT "items".id FROM "items" WHERE ("items"."id" = 5) LIMIT 1
+Item Load (0.000577)  SELECT * FROM "items" WHERE ("items"."id" = 5) 
+Unit Load (0.000471)  SELECT * FROM "units" WHERE ("units"."id" = 1) 
+Item Create (0.000442)  INSERT INTO "items" ("unit_id", "stock_buffer", "logistic_type", "mpoq", "lead_time", "description", "search_key") VALUES(NULL, 0.0, NULL, 0.0, 1, '??', '??')
+Item Load (0.003147)  SELECT * FROM "items" 
+Item Exists (0.000401)  SELECT "items".id FROM "items" WHERE ("items"."id" = 15) LIMIT 1
+Item Load (0.000567)  SELECT * FROM "items" WHERE ("items"."id" = 15) 
+Unit Load (0.000483)  SELECT * FROM "units" WHERE ("units"."id" = 1) 
+Item Update (0.001042)  UPDATE "items" SET "lead_time" = 30, "search_key" = 'BOTSHA', "logistic_type" = 'P', "stock_buffer" = 5000.0, "mpoq" = 10000.0, "unit_id" = 1, "description" = 'Botol Shampoo' WHERE "id" = 15
+Unit Load (0.000500)  SELECT * FROM "units" WHERE ("units"."id" = 1) 
+Item Create (0.000454)  INSERT INTO "items" ("unit_id", "stock_buffer", "logistic_type", "mpoq", "lead_time", "description", "search_key") VALUES(NULL, 0.0, NULL, 0.0, 1, '??', '??')
+Item Load (0.003410)  SELECT * FROM "items" 
+Item Exists (0.000359)  SELECT "items".id FROM "items" WHERE ("items"."id" = 16) LIMIT 1
+Item Load (0.000472)  SELECT * FROM "items" WHERE ("items"."id" = 16) 
+Unit Load (0.000479)  SELECT * FROM "units" WHERE ("units"."id" = 1) 
+Item Update (0.000399)  UPDATE "items" SET "lead_time" = 30, "search_key" = 'CAPSHA', "logistic_type" = 'P', "stock_buffer" = 5000.0, "mpoq" = 10000.0, "unit_id" = 1, "description" = 'Cap Botol Shampoo' WHERE "id" = 16
+Unit Load (0.000496)  SELECT * FROM "units" WHERE ("units"."id" = 1) 
+Item Load (0.000702)  SELECT * FROM "items" 
+Unit Load (0.000198)  SELECT * FROM "units" 
+Item Create (0.000675)  INSERT INTO "items" ("unit_id", "stock_buffer", "logistic_type", "mpoq", "lead_time", "description", "search_key") VALUES(NULL, 0.0, NULL, 0.0, 1, '??', '??')
+Item Load (0.000578)  SELECT * FROM "items" 
+Item Exists (0.000403)  SELECT "items".id FROM "items" WHERE ("items"."id" = 1) LIMIT 1
+Item Load (0.000562)  SELECT * FROM "items" WHERE ("items"."id" = 1) 
+Item Update (0.000450)  UPDATE "items" SET "lead_time" = 3, "search_key" = 'KAPOLGO', "logistic_type" = 'F', "stock_buffer" = 1000.0, "mpoq" = 500.0, "description" = 'Kacang Polong Goreng' WHERE "id" = 1
+Item Load (0.001153)  SELECT * FROM "items" 
+Unit Load (0.000812)  SELECT * FROM "units" 
+Item Create (0.000623)  INSERT INTO "items" ("unit_id", "stock_buffer", "logistic_type", "mpoq", "lead_time", "description", "search_key") VALUES(NULL, 0.0, NULL, 0.0, 1, '??', '??')
+Item Load (0.000584)  SELECT * FROM "items" 
+Item Exists (0.000404)  SELECT "items".id FROM "items" WHERE ("items"."id" = 1) LIMIT 1
+Item Load (0.000563)  SELECT * FROM "items" WHERE ("items"."id" = 1) 
+Item Load (0.002808)  SELECT * FROM "items" 
+Unit Load (0.000781)  SELECT * FROM "units" 
+Item Exists (0.000397)  SELECT "items".id FROM "items" WHERE ("items"."id" = 1) LIMIT 1
+Item Load (0.000561)  SELECT * FROM "items" WHERE ("items"."id" = 1) 
+Item Exists (0.000404)  SELECT "items".id FROM "items" WHERE ("items"."id" = 2) LIMIT 1
+Item Load (0.000564)  SELECT * FROM "items" WHERE ("items"."id" = 2) 
+Item Exists (0.000386)  SELECT "items".id FROM "items" WHERE ("items"."id" = 3) LIMIT 1
+Item Load (0.000562)  SELECT * FROM "items" WHERE ("items"."id" = 3) 
+Item Exists (0.000395)  SELECT "items".id FROM "items" WHERE ("items"."id" = 4) LIMIT 1
+Item Load (0.000564)  SELECT * FROM "items" WHERE ("items"."id" = 4) 
+Item Exists (0.000442)  SELECT "items".id FROM "items" WHERE ("items"."id" = 5) LIMIT 1
+Item Load (0.000577)  SELECT * FROM "items" WHERE ("items"."id" = 5) 
+Item Exists (0.000405)  SELECT "items".id FROM "items" WHERE ("items"."id" = 6) LIMIT 1
+Item Load (0.000572)  SELECT * FROM "items" WHERE ("items"."id" = 6) 
+Item Exists (0.000420)  SELECT "items".id FROM "items" WHERE ("items"."id" = 7) LIMIT 1
+Item Load (0.000576)  SELECT * FROM "items" WHERE ("items"."id" = 7) 
+Item Exists (0.000387)  SELECT "items".id FROM "items" WHERE ("items"."id" = 8) LIMIT 1
+Item Load (0.000599)  SELECT * FROM "items" WHERE ("items"."id" = 8) 
+Item Exists (0.000387)  SELECT "items".id FROM "items" WHERE ("items"."id" = 1) LIMIT 1
+Item Load (0.000558)  SELECT * FROM "items" WHERE ("items"."id" = 1) 
+Item Exists (0.000382)  SELECT "items".id FROM "items" WHERE ("items"."id" = 2) LIMIT 1
+Item Load (0.000579)  SELECT * FROM "items" WHERE ("items"."id" = 2) 
+Item Exists (0.000430)  SELECT "items".id FROM "items" WHERE ("items"."id" = 3) LIMIT 1
+Item Load (0.000584)  SELECT * FROM "items" WHERE ("items"."id" = 3) 
+Item Exists (0.000385)  SELECT "items".id FROM "items" WHERE ("items"."id" = 4) LIMIT 1
+Item Load (0.000565)  SELECT * FROM "items" WHERE ("items"."id" = 4) 
+Item Exists (0.000384)  SELECT "items".id FROM "items" WHERE ("items"."id" = 5) LIMIT 1
+Item Load (0.000598)  SELECT * FROM "items" WHERE ("items"."id" = 5) 
+Item Exists (0.000409)  SELECT "items".id FROM "items" WHERE ("items"."id" = 6) LIMIT 1
+Item Load (0.000559)  SELECT * FROM "items" WHERE ("items"."id" = 6) 
+Item Exists (0.000421)  SELECT "items".id FROM "items" WHERE ("items"."id" = 7) LIMIT 1
+Item Load (0.000579)  SELECT * FROM "items" WHERE ("items"."id" = 7) 
+Item Exists (0.000383)  SELECT "items".id FROM "items" WHERE ("items"."id" = 1) LIMIT 1
+Item Load (0.000578)  SELECT * FROM "items" WHERE ("items"."id" = 1) 
+Item Exists (0.000390)  SELECT "items".id FROM "items" WHERE ("items"."id" = 2) LIMIT 1
+Item Load (0.000560)  SELECT * FROM "items" WHERE ("items"."id" = 2) 
+Item Exists (0.000389)  SELECT "items".id FROM "items" WHERE ("items"."id" = 3) LIMIT 1
+Item Load (0.000562)  SELECT * FROM "items" WHERE ("items"."id" = 3) 
+Item Exists (0.000391)  SELECT "items".id FROM "items" WHERE ("items"."id" = 4) LIMIT 1
+Item Load (0.000562)  SELECT * FROM "items" WHERE ("items"."id" = 4) 
+Item Exists (0.000387)  SELECT "items".id FROM "items" WHERE ("items"."id" = 1) LIMIT 1
+Item Load (0.000561)  SELECT * FROM "items" WHERE ("items"."id" = 1) 
+Item Update (0.000776)  UPDATE "items" SET "logistic_type" = 'I' WHERE "id" = 1
+Item Exists (0.000399)  SELECT "items".id FROM "items" WHERE ("items"."id" = 2) LIMIT 1
+Item Load (0.000559)  SELECT * FROM "items" WHERE ("items"."id" = 2) 
+Item Update (0.000399)  UPDATE "items" SET "logistic_type" = 'P' WHERE "id" = 2
+Item Exists (0.000401)  SELECT "items".id FROM "items" WHERE ("items"."id" = 3) LIMIT 1
+Item Load (0.000643)  SELECT * FROM "items" WHERE ("items"."id" = 3) 
+Item Update (0.000499)  UPDATE "items" SET "logistic_type" = 'F' WHERE "id" = 3
+Item Exists (0.000400)  SELECT "items".id FROM "items" WHERE ("items"."id" = 4) LIMIT 1
+Item Load (0.000562)  SELECT * FROM "items" WHERE ("items"."id" = 4) 
+Item Update (0.000489)  UPDATE "items" SET "logistic_type" = 'I' WHERE "id" = 4
+Unit Load (0.000505)  SELECT * FROM "units" WHERE ("units"."id" = 1) 
+Item Update (0.000410)  UPDATE "items" SET "unit_id" = 1 WHERE "id" = 4
+Item Exists (0.000402)  SELECT "items".id FROM "items" WHERE ("items"."id" = 3) LIMIT 1
+Item Load (0.000564)  SELECT * FROM "items" WHERE ("items"."id" = 3) 
+Unit Load (0.000488)  SELECT * FROM "units" WHERE ("units"."id" = 2) 
+Item Update (0.000368)  UPDATE "items" SET "unit_id" = 2 WHERE "id" = 3
+Item Exists (0.000372)  SELECT "items".id FROM "items" WHERE ("items"."id" = 2) LIMIT 1
+Item Load (0.000493)  SELECT * FROM "items" WHERE ("items"."id" = 2) 
+Unit Load (0.000485)  SELECT * FROM "units" WHERE ("units"."id" = 2) 
+Item Update (0.000377)  UPDATE "items" SET "unit_id" = 2 WHERE "id" = 2
+Item Exists (0.000424)  SELECT "items".id FROM "items" WHERE ("items"."id" = 1) LIMIT 1
+Item Load (0.000763)  SELECT * FROM "items" WHERE ("items"."id" = 1) 
+Unit Load (0.000529)  SELECT * FROM "units" WHERE ("units"."id" = 2) 
+Item Update (0.000364)  UPDATE "items" SET "unit_id" = 2 WHERE "id" = 1
+Item Exists (0.000404)  SELECT "items".id FROM "items" WHERE ("items"."id" = 5) LIMIT 1
+Item Load (0.000564)  SELECT * FROM "items" WHERE ("items"."id" = 5) 
+Unit Load (0.000487)  SELECT * FROM "units" WHERE ("units"."id" = 1) 
+Item Update (0.000391)  UPDATE "items" SET "logistic_type" = 'R', "unit_id" = 1 WHERE "id" = 5
+Item Exists (0.000319)  SELECT "items".id FROM "items" WHERE ("items"."id" = 6) LIMIT 1
+Item Load (0.000404)  SELECT * FROM "items" WHERE ("items"."id" = 6) 
+Unit Load (0.000491)  SELECT * FROM "units" WHERE ("units"."id" = 1) 
+Item Update (0.000388)  UPDATE "items" SET "logistic_type" = 'R', "unit_id" = 1 WHERE "id" = 6
+Item Exists (0.000401)  SELECT "items".id FROM "items" WHERE ("items"."id" = 7) LIMIT 1
+Item Load (0.000560)  SELECT * FROM "items" WHERE ("items"."id" = 7) 
+Unit Load (0.000485)  SELECT * FROM "units" WHERE ("units"."id" = 1) 
+Item Update (0.000386)  UPDATE "items" SET "logistic_type" = 'R', "unit_id" = 1 WHERE "id" = 7
+Item Exists (0.000313)  SELECT "items".id FROM "items" WHERE ("items"."id" = 8) LIMIT 1
+Item Load (0.000406)  SELECT * FROM "items" WHERE ("items"."id" = 8) 
+Unit Load (0.000489)  SELECT * FROM "units" WHERE ("units"."id" = 1) 
+Item Update (0.000381)  UPDATE "items" SET "logistic_type" = 'R', "unit_id" = 1 WHERE "id" = 8
+Item Exists (0.000400)  SELECT "items".id FROM "items" WHERE ("items"."id" = 7) LIMIT 1
+Item Load (0.000560)  SELECT * FROM "items" WHERE ("items"."id" = 7) 
+Unit Load (0.000459)  SELECT * FROM "units" WHERE ("units"."id" = 1) 
+Item Exists (0.000381)  SELECT "items".id FROM "items" WHERE ("items"."id" = 6) LIMIT 1
+Item Load (0.000570)  SELECT * FROM "items" WHERE ("items"."id" = 6) 
+Unit Load (0.000468)  SELECT * FROM "units" WHERE ("units"."id" = 1) 
+Item Exists (0.000383)  SELECT "items".id FROM "items" WHERE ("items"."id" = 5) LIMIT 1
+Item Load (0.000588)  SELECT * FROM "items" WHERE ("items"."id" = 5) 
+Unit Load (0.000461)  SELECT * FROM "units" WHERE ("units"."id" = 1) 
+Item Exists (0.000388)  SELECT "items".id FROM "items" WHERE ("items"."id" = 4) LIMIT 1
+Item Load (0.000602)  SELECT * FROM "items" WHERE ("items"."id" = 4) 
+Unit Load (0.000462)  SELECT * FROM "units" WHERE ("units"."id" = 1) 
+Item Exists (0.000384)  SELECT "items".id FROM "items" WHERE ("items"."id" = 3) LIMIT 1
+Item Load (0.000583)  SELECT * FROM "items" WHERE ("items"."id" = 3) 
+Unit Load (0.000461)  SELECT * FROM "units" WHERE ("units"."id" = 2) 
+Item Exists (0.000385)  SELECT "items".id FROM "items" WHERE ("items"."id" = 2) LIMIT 1
+Item Load (0.000828)  SELECT * FROM "items" WHERE ("items"."id" = 2) 
+Unit Load (0.000487)  SELECT * FROM "units" WHERE ("units"."id" = 2) 
+Item Exists (0.000429)  SELECT "items".id FROM "items" WHERE ("items"."id" = 1) LIMIT 1
+Item Load (0.000619)  SELECT * FROM "items" WHERE ("items"."id" = 1) 
+Unit Load (0.000485)  SELECT * FROM "units" WHERE ("units"."id" = 2) 
+Item Exists (0.000387)  SELECT "items".id FROM "items" WHERE ("items"."id" = 2) LIMIT 1
+Item Load (0.000601)  SELECT * FROM "items" WHERE ("items"."id" = 2) 
+Unit Load (0.000458)  SELECT * FROM "units" WHERE ("units"."id" = 2) 
+Item Exists (0.000410)  SELECT "items".id FROM "items" WHERE ("items"."id" = 3) LIMIT 1
+Item Load (0.000587)  SELECT * FROM "items" WHERE ("items"."id" = 3) 
+Unit Load (0.000511)  SELECT * FROM "units" WHERE ("units"."id" = 2) 
+Item Exists (0.000424)  SELECT "items".id FROM "items" WHERE ("items"."id" = 4) LIMIT 1
+Item Load (0.000671)  SELECT * FROM "items" WHERE ("items"."id" = 4) 
+Unit Load (0.000457)  SELECT * FROM "units" WHERE ("units"."id" = 1) 
+Item Exists (0.000382)  SELECT "items".id FROM "items" WHERE ("items"."id" = 5) LIMIT 1
+Item Load (0.000579)  SELECT * FROM "items" WHERE ("items"."id" = 5) 
+Unit Load (0.000455)  SELECT * FROM "units" WHERE ("units"."id" = 1) 
+Item Exists (0.000385)  SELECT "items".id FROM "items" WHERE ("items"."id" = 7) LIMIT 1
+Item Load (0.000651)  SELECT * FROM "items" WHERE ("items"."id" = 7) 
+Unit Load (0.000463)  SELECT * FROM "units" WHERE ("units"."id" = 1) 
+Item Exists (0.000510)  SELECT "items".id FROM "items" WHERE ("items"."id" = 6) LIMIT 1
+Item Load (0.000675)  SELECT * FROM "items" WHERE ("items"."id" = 6) 
+Unit Load (0.000541)  SELECT * FROM "units" WHERE ("units"."id" = 1) 
+Item Exists (0.000383)  SELECT "items".id FROM "items" WHERE ("items"."id" = 8) LIMIT 1
+Item Load (0.000593)  SELECT * FROM "items" WHERE ("items"."id" = 8) 
+Unit Load (0.000450)  SELECT * FROM "units" WHERE ("units"."id" = 1) 
+Item Load (0.002952)  SELECT * FROM "items" 
+Unit Load (0.000615)  SELECT * FROM "units" 
+Item Load (0.002850)  SELECT * FROM "items" 
+Unit Load (0.000593)  SELECT * FROM "units" 
+Item Exists (0.000392)  SELECT "items".id FROM "items" WHERE ("items"."id" = 1) LIMIT 1
+Item Load (0.000628)  SELECT * FROM "items" WHERE ("items"."id" = 1) 
+Unit Load (0.000540)  SELECT * FROM "units" WHERE ("units"."id" = 2) 
+Item Exists (0.000401)  SELECT "items".id FROM "items" WHERE ("items"."id" = 2) LIMIT 1
+Item Load (0.000566)  SELECT * FROM "items" WHERE ("items"."id" = 2) 
+Unit Load (0.000447)  SELECT * FROM "units" WHERE ("units"."id" = 2) 
+Item Exists (0.000403)  SELECT "items".id FROM "items" WHERE ("items"."id" = 3) LIMIT 1
+Item Load (0.000571)  SELECT * FROM "items" WHERE ("items"."id" = 3) 
+Unit Load (0.000462)  SELECT * FROM "units" WHERE ("units"."id" = 2) 
+Item Exists (0.000385)  SELECT "items".id FROM "items" WHERE ("items"."id" = 4) LIMIT 1
+Item Load (0.000564)  SELECT * FROM "items" WHERE ("items"."id" = 4) 
+Unit Load (0.000468)  SELECT * FROM "units" WHERE ("units"."id" = 1) 
+Item Exists (0.000384)  SELECT "items".id FROM "items" WHERE ("items"."id" = 5) LIMIT 1
+Item Load (0.000566)  SELECT * FROM "items" WHERE ("items"."id" = 5) 
+Unit Load (0.000454)  SELECT * FROM "units" WHERE ("units"."id" = 1) 
+Item Exists (0.000390)  SELECT "items".id FROM "items" WHERE ("items"."id" = 6) LIMIT 1
+Item Load (0.000624)  SELECT * FROM "items" WHERE ("items"."id" = 6) 
+Unit Load (0.000477)  SELECT * FROM "units" WHERE ("units"."id" = 1) 
+Item Exists (0.000381)  SELECT "items".id FROM "items" WHERE ("items"."id" = 7) LIMIT 1
+Item Load (0.000567)  SELECT * FROM "items" WHERE ("items"."id" = 7) 
+Unit Load (0.000445)  SELECT * FROM "units" WHERE ("units"."id" = 1) 
+Item Exists (0.000386)  SELECT "items".id FROM "items" WHERE ("items"."id" = 8) LIMIT 1
+Item Load (0.000573)  SELECT * FROM "items" WHERE ("items"."id" = 8) 
+Unit Load (0.000465)  SELECT * FROM "units" WHERE ("units"."id" = 1) 
+Item Exists (0.000383)  SELECT "items".id FROM "items" WHERE ("items"."id" = 1) LIMIT 1
+Item Load (0.000568)  SELECT * FROM "items" WHERE ("items"."id" = 1) 
+Unit Load (0.000468)  SELECT * FROM "units" WHERE ("units"."id" = 2) 
+Item Exists (0.000382)  SELECT "items".id FROM "items" WHERE ("items"."id" = 2) LIMIT 1
+Item Load (0.000594)  SELECT * FROM "items" WHERE ("items"."id" = 2) 
+Unit Load (0.000456)  SELECT * FROM "units" WHERE ("units"."id" = 2) 
+Item Exists (0.000388)  SELECT "items".id FROM "items" WHERE ("items"."id" = 3) LIMIT 1
+Item Load (0.000567)  SELECT * FROM "items" WHERE ("items"."id" = 3) 
+Unit Load (0.000488)  SELECT * FROM "units" WHERE ("units"."id" = 2) 
+Item Exists (0.000382)  SELECT "items".id FROM "items" WHERE ("items"."id" = 4) LIMIT 1
+Item Load (0.000566)  SELECT * FROM "items" WHERE ("items"."id" = 4) 
+Unit Load (0.000456)  SELECT * FROM "units" WHERE ("units"."id" = 1) 
+Item Exists (0.000399)  SELECT "items".id FROM "items" WHERE ("items"."id" = 5) LIMIT 1
+Item Load (0.000576)  SELECT * FROM "items" WHERE ("items"."id" = 5) 
+Unit Load (0.000473)  SELECT * FROM "units" WHERE ("units"."id" = 1) 
+Item Exists (0.000384)  SELECT "items".id FROM "items" WHERE ("items"."id" = 6) LIMIT 1
+Item Load (0.000575)  SELECT * FROM "items" WHERE ("items"."id" = 6) 
+Unit Load (0.000454)  SELECT * FROM "units" WHERE ("units"."id" = 1) 
+Item Exists (0.000384)  SELECT "items".id FROM "items" WHERE ("items"."id" = 7) LIMIT 1
+Item Load (0.000578)  SELECT * FROM "items" WHERE ("items"."id" = 7) 
+Unit Load (0.000451)  SELECT * FROM "units" WHERE ("units"."id" = 1) 
+Item Exists (0.000386)  SELECT "items".id FROM "items" WHERE ("items"."id" = 8) LIMIT 1
+Item Load (0.000570)  SELECT * FROM "items" WHERE ("items"."id" = 8) 
+Unit Load (0.000457)  SELECT * FROM "units" WHERE ("units"."id" = 1) 
+Item Load (0.002972)  SELECT * FROM "items" 
+Unit Load (0.001137)  SELECT * FROM "units" 
+Item Exists (0.000435)  SELECT "items".id FROM "items" WHERE ("items"."id" = 1) LIMIT 1
+Item Load (0.000587)  SELECT * FROM "items" WHERE ("items"."id" = 1) 
+Item Exists (0.000403)  SELECT "items".id FROM "items" WHERE ("items"."id" = 2) LIMIT 1
+Item Load (0.000565)  SELECT * FROM "items" WHERE ("items"."id" = 2) 
+Item Exists (0.000414)  SELECT "items".id FROM "items" WHERE ("items"."id" = 3) LIMIT 1
+Item Load (0.000600)  SELECT * FROM "items" WHERE ("items"."id" = 3) 
+Item Exists (0.000386)  SELECT "items".id FROM "items" WHERE ("items"."id" = 4) LIMIT 1
+Item Load (0.000590)  SELECT * FROM "items" WHERE ("items"."id" = 4) 
+Item Exists (0.000383)  SELECT "items".id FROM "items" WHERE ("items"."id" = 5) LIMIT 1
+Item Load (0.000562)  SELECT * FROM "items" WHERE ("items"."id" = 5) 
+Item Exists (0.000382)  SELECT "items".id FROM "items" WHERE ("items"."id" = 6) LIMIT 1
+Item Load (0.000564)  SELECT * FROM "items" WHERE ("items"."id" = 6) 
+Item Exists (0.000385)  SELECT "items".id FROM "items" WHERE ("items"."id" = 7) LIMIT 1
+Item Load (0.000563)  SELECT * FROM "items" WHERE ("items"."id" = 7) 
+Item Exists (0.000383)  SELECT "items".id FROM "items" WHERE ("items"."id" = 8) LIMIT 1
+Item Load (0.000562)  SELECT * FROM "items" WHERE ("items"."id" = 8) 
+Item Load (0.009686)  SELECT * FROM "items" 
+Unit Load (0.000594)  SELECT * FROM "units" 
+Item Exists (0.000413)  SELECT "items".id FROM "items" WHERE ("items"."id" = 2) LIMIT 1
+Item Load (0.000570)  SELECT * FROM "items" WHERE ("items"."id" = 2) 
+Item Exists (0.000380)  SELECT "items".id FROM "items" WHERE ("items"."id" = 1) LIMIT 1
+Item Load (0.000559)  SELECT * FROM "items" WHERE ("items"."id" = 1) 
+Item Exists (0.000385)  SELECT "items".id FROM "items" WHERE ("items"."id" = 2) LIMIT 1
+Item Load (0.000551)  SELECT * FROM "items" WHERE ("items"."id" = 2) 
+Item Exists (0.000379)  SELECT "items".id FROM "items" WHERE ("items"."id" = 3) LIMIT 1
+Item Load (0.000557)  SELECT * FROM "items" WHERE ("items"."id" = 3) 
+Item Exists (0.000379)  SELECT "items".id FROM "items" WHERE ("items"."id" = 4) LIMIT 1
+Item Load (0.000558)  SELECT * FROM "items" WHERE ("items"."id" = 4) 
+Item Exists (0.000379)  SELECT "items".id FROM "items" WHERE ("items"."id" = 5) LIMIT 1
+Item Load (0.000551)  SELECT * FROM "items" WHERE ("items"."id" = 5) 
+Item Exists (0.000383)  SELECT "items".id FROM "items" WHERE ("items"."id" = 6) LIMIT 1
+Item Load (0.000596)  SELECT * FROM "items" WHERE ("items"."id" = 6) 
+Item Exists (0.000410)  SELECT "items".id FROM "items" WHERE ("items"."id" = 7) LIMIT 1
+Item Load (0.000555)  SELECT * FROM "items" WHERE ("items"."id" = 7) 
+Item Exists (0.000380)  SELECT "items".id FROM "items" WHERE ("items"."id" = 8) LIMIT 1
+Item Load (0.000559)  SELECT * FROM "items" WHERE ("items"."id" = 8) 
+Item Exists (0.000384)  SELECT "items".id FROM "items" WHERE ("items"."id" = 7) LIMIT 1
+Item Load (0.000550)  SELECT * FROM "items" WHERE ("items"."id" = 7) 
+Item Exists (0.000382)  SELECT "items".id FROM "items" WHERE ("items"."id" = 6) LIMIT 1
+Item Load (0.000549)  SELECT * FROM "items" WHERE ("items"."id" = 6) 
+Item Exists (0.000380)  SELECT "items".id FROM "items" WHERE ("items"."id" = 5) LIMIT 1
+Item Load (0.001282)  SELECT * FROM "items" WHERE ("items"."id" = 5) 
+Item Exists (0.000382)  SELECT "items".id FROM "items" WHERE ("items"."id" = 4) LIMIT 1
+Item Load (0.000548)  SELECT * FROM "items" WHERE ("items"."id" = 4) 
+Item Exists (0.000380)  SELECT "items".id FROM "items" WHERE ("items"."id" = 3) LIMIT 1
+Item Load (0.004649)  SELECT * FROM "items" WHERE ("items"."id" = 3) 
+Item Exists (0.000377)  SELECT "items".id FROM "items" WHERE ("items"."id" = 2) LIMIT 1
+Item Load (0.000562)  SELECT * FROM "items" WHERE ("items"."id" = 2) 
+Item Exists (0.000378)  SELECT "items".id FROM "items" WHERE ("items"."id" = 1) LIMIT 1
+Item Load (0.000558)  SELECT * FROM "items" WHERE ("items"."id" = 1) 
+Item Exists (0.000384)  SELECT "items".id FROM "items" WHERE ("items"."id" = 2) LIMIT 1
+Item Load (0.000579)  SELECT * FROM "items" WHERE ("items"."id" = 2) 
+Item Exists (0.000378)  SELECT "items".id FROM "items" WHERE ("items"."id" = 3) LIMIT 1
+Item Load (0.000552)  SELECT * FROM "items" WHERE ("items"."id" = 3) 
+Item Exists (0.000403)  SELECT "items".id FROM "items" WHERE ("items"."id" = 1) LIMIT 1
+Item Load (0.000568)  SELECT * FROM "items" WHERE ("items"."id" = 1) 
+Unit Load (0.000483)  SELECT * FROM "units" WHERE ("units"."id" = 2) 
+Item Update (0.019923)  UPDATE "items" SET "logistic_type" = 'I', "unit_id" = 2 WHERE "id" = 1
+Item Exists (0.000396)  SELECT "items".id FROM "items" WHERE ("items"."id" = 2) LIMIT 1
+Item Load (0.000551)  SELECT * FROM "items" WHERE ("items"."id" = 2) 
+Item Exists (0.000382)  SELECT "items".id FROM "items" WHERE ("items"."id" = 1) LIMIT 1
+Item Load (0.000561)  SELECT * FROM "items" WHERE ("items"."id" = 1) 
+Unit Load (0.000459)  SELECT * FROM "units" WHERE ("units"."id" = 2) 
+Item Exists (0.000403)  SELECT "items".id FROM "items" WHERE ("items"."id" = 2) LIMIT 1
+Item Load (0.000556)  SELECT * FROM "items" WHERE ("items"."id" = 2) 
+Unit Load (0.000440)  SELECT * FROM "units" WHERE ("units"."id" = 2) 
+Item Update (0.000333)  UPDATE "items" SET "logistic_type" = 'P', "unit_id" = 2 WHERE "id" = 2
+Item Exists (0.000405)  SELECT "items".id FROM "items" WHERE ("items"."id" = 3) LIMIT 1
+Item Load (0.000555)  SELECT * FROM "items" WHERE ("items"."id" = 3) 
+Unit Load (0.000487)  SELECT * FROM "units" WHERE ("units"."id" = 2) 
+Item Update (0.000424)  UPDATE "items" SET "logistic_type" = 'F', "unit_id" = 2 WHERE "id" = 3
+Item Exists (0.000399)  SELECT "items".id FROM "items" WHERE ("items"."id" = 4) LIMIT 1
+Item Load (0.000577)  SELECT * FROM "items" WHERE ("items"."id" = 4) 
+Unit Load (0.000483)  SELECT * FROM "units" WHERE ("units"."id" = 1) 
+Item Update (0.000565)  UPDATE "items" SET "logistic_type" = 'I', "unit_id" = 1 WHERE "id" = 4
+Item Exists (0.000398)  SELECT "items".id FROM "items" WHERE ("items"."id" = 5) LIMIT 1
+Item Load (0.000549)  SELECT * FROM "items" WHERE ("items"."id" = 5) 
+Unit Load (0.000479)  SELECT * FROM "units" WHERE ("units"."id" = 1) 
+Item Update (0.000362)  UPDATE "items" SET "logistic_type" = 'R', "unit_id" = 1 WHERE "id" = 5
+Item Exists (0.000397)  SELECT "items".id FROM "items" WHERE ("items"."id" = 6) LIMIT 1
+Item Load (0.000551)  SELECT * FROM "items" WHERE ("items"."id" = 6) 
+Unit Load (0.000481)  SELECT * FROM "units" WHERE ("units"."id" = 1) 
+Item Update (0.000370)  UPDATE "items" SET "logistic_type" = 'R', "unit_id" = 1 WHERE "id" = 6
+Item Exists (0.000397)  SELECT "items".id FROM "items" WHERE ("items"."id" = 7) LIMIT 1
+Item Load (0.000554)  SELECT * FROM "items" WHERE ("items"."id" = 7) 
+Unit Load (0.000483)  SELECT * FROM "units" WHERE ("units"."id" = 1) 
+Item Update (0.000367)  UPDATE "items" SET "logistic_type" = 'R', "unit_id" = 1 WHERE "id" = 7
+Item Exists (0.000402)  SELECT "items".id FROM "items" WHERE ("items"."id" = 8) LIMIT 1
+Item Load (0.000553)  SELECT * FROM "items" WHERE ("items"."id" = 8) 
+Unit Load (0.000498)  SELECT * FROM "units" WHERE ("units"."id" = 1) 
+Item Update (0.000356)  UPDATE "items" SET "logistic_type" = 'R', "unit_id" = 1 WHERE "id" = 8
+Item Exists (0.000432)  SELECT "items".id FROM "items" WHERE ("items"."id" = 7) LIMIT 1
+Item Load (0.000663)  SELECT * FROM "items" WHERE ("items"."id" = 7) 
+Unit Load (0.000524)  SELECT * FROM "units" WHERE ("units"."id" = 1) 
+Item Exists (0.000450)  SELECT "items".id FROM "items" WHERE ("items"."id" = 6) LIMIT 1
+Item Load (0.000635)  SELECT * FROM "items" WHERE ("items"."id" = 6) 
+Unit Load (0.000531)  SELECT * FROM "units" WHERE ("units"."id" = 1) 
+Item Exists (0.000378)  SELECT "items".id FROM "items" WHERE ("items"."id" = 5) LIMIT 1
+Item Load (0.000596)  SELECT * FROM "items" WHERE ("items"."id" = 5) 
+Unit Load (0.000461)  SELECT * FROM "units" WHERE ("units"."id" = 1) 
+Item Exists (0.000381)  SELECT "items".id FROM "items" WHERE ("items"."id" = 4) LIMIT 1
+Item Load (0.000711)  SELECT * FROM "items" WHERE ("items"."id" = 4) 
+Unit Load (0.000902)  SELECT * FROM "units" WHERE ("units"."id" = 1) 
+Item Exists (0.000381)  SELECT "items".id FROM "items" WHERE ("items"."id" = 3) LIMIT 1
+Item Load (0.000574)  SELECT * FROM "items" WHERE ("items"."id" = 3) 
+Unit Load (0.000465)  SELECT * FROM "units" WHERE ("units"."id" = 2) 
+Item Exists (0.000388)  SELECT "items".id FROM "items" WHERE ("items"."id" = 2) LIMIT 1
+Item Load (0.000574)  SELECT * FROM "items" WHERE ("items"."id" = 2) 
+Unit Load (0.000455)  SELECT * FROM "units" WHERE ("units"."id" = 2) 
+Item Exists (0.000383)  SELECT "items".id FROM "items" WHERE ("items"."id" = 1) LIMIT 1
+Item Load (0.000574)  SELECT * FROM "items" WHERE ("items"."id" = 1) 
+Unit Load (0.000458)  SELECT * FROM "units" WHERE ("units"."id" = 2) 
+Item Exists (0.000383)  SELECT "items".id FROM "items" WHERE ("items"."id" = 2) LIMIT 1
+Item Load (0.000598)  SELECT * FROM "items" WHERE ("items"."id" = 2) 
+Unit Load (0.000458)  SELECT * FROM "units" WHERE ("units"."id" = 2) 
+Item Exists (0.000327)  SELECT "items".id FROM "items" WHERE ("items"."id" = 3) LIMIT 1
+Item Load (0.000457)  SELECT * FROM "items" WHERE ("items"."id" = 3) 
+Unit Load (0.000389)  SELECT * FROM "units" WHERE ("units"."id" = 2) 
+Item Exists (0.000427)  SELECT "items".id FROM "items" WHERE ("items"."id" = 4) LIMIT 1
+Item Load (0.000623)  SELECT * FROM "items" WHERE ("items"."id" = 4) 
+Unit Load (0.000453)  SELECT * FROM "units" WHERE ("units"."id" = 1) 
+Item Exists (0.000436)  SELECT "items".id FROM "items" WHERE ("items"."id" = 5) LIMIT 1
+Item Load (0.000686)  SELECT * FROM "items" WHERE ("items"."id" = 5) 
+Unit Load (0.000515)  SELECT * FROM "units" WHERE ("units"."id" = 1) 
+Item Exists (0.000379)  SELECT "items".id FROM "items" WHERE ("items"."id" = 6) LIMIT 1
+Item Load (0.000580)  SELECT * FROM "items" WHERE ("items"."id" = 6) 
+Unit Load (0.000508)  SELECT * FROM "units" WHERE ("units"."id" = 1) 
+Item Exists (0.000393)  SELECT "items".id FROM "items" WHERE ("items"."id" = 7) LIMIT 1
+Item Load (0.000583)  SELECT * FROM "items" WHERE ("items"."id" = 7) 
+Unit Load (0.000450)  SELECT * FROM "units" WHERE ("units"."id" = 1) 
+Item Exists (0.000380)  SELECT "items".id FROM "items" WHERE ("items"."id" = 8) LIMIT 1
+Item Load (0.000586)  SELECT * FROM "items" WHERE ("items"."id" = 8) 
+Unit Load (0.000450)  SELECT * FROM "units" WHERE ("units"."id" = 1) 
+Item Create (0.000470)  INSERT INTO "items" ("unit_id", "stock_buffer", "logistic_type", "mpoq", "lead_time", "description", "search_key") VALUES(NULL, 0.0, NULL, 0.0, 1, '??', '??')
+Item Load (0.002315)  SELECT * FROM "items" 
+Item Exists (0.000396)  SELECT "items".id FROM "items" WHERE ("items"."id" = 9) LIMIT 1
+Item Load (0.000596)  SELECT * FROM "items" WHERE ("items"."id" = 9) 
+Unit Load (0.000508)  SELECT * FROM "units" WHERE ("units"."id" = 1) 
+Item Update (0.000454)  UPDATE "items" SET "lead_time" = 14, "search_key" = 'TINR5', "logistic_type" = 'R', "stock_buffer" = 10.0, "mpoq" = 1.0, "unit_id" = 1, "description" = 'Tinta R5' WHERE "id" = 9
+Item Exists (0.000421)  SELECT "items".id FROM "items" WHERE ("items"."id" = 8) LIMIT 1
+Item Load (0.000567)  SELECT * FROM "items" WHERE ("items"."id" = 8) 
+Unit Load (0.000456)  SELECT * FROM "units" WHERE ("units"."id" = 1) 
+Item Exists (0.000385)  SELECT "items".id FROM "items" WHERE ("items"."id" = 9) LIMIT 1
+Item Load (0.000563)  SELECT * FROM "items" WHERE ("items"."id" = 9) 
+Unit Load (0.000665)  SELECT * FROM "units" WHERE ("units"."id" = 1) 
+Unit Load (0.000481)  SELECT * FROM "units" WHERE ("units"."id" = 1) 
+Item Update (0.000376)  UPDATE "items" SET "search_key" = 'TR5' WHERE "id" = 9
+Item Exists (0.000461)  SELECT "items".id FROM "items" WHERE ("items"."id" = 8) LIMIT 1
+Item Load (0.000564)  SELECT * FROM "items" WHERE ("items"."id" = 8) 
+Unit Load (0.000464)  SELECT * FROM "units" WHERE ("units"."id" = 1) 
+Item Exists (0.000403)  SELECT "items".id FROM "items" WHERE ("items"."id" = 9) LIMIT 1
+Item Load (0.000568)  SELECT * FROM "items" WHERE ("items"."id" = 9) 
+Unit Load (0.000453)  SELECT * FROM "units" WHERE ("units"."id" = 1) 
+Item Exists (0.000381)  SELECT "items".id FROM "items" WHERE ("items"."id" = 8) LIMIT 1
+Item Load (0.000564)  SELECT * FROM "items" WHERE ("items"."id" = 8) 
+Unit Load (0.000453)  SELECT * FROM "units" WHERE ("units"."id" = 1) 
+Item Exists (0.000379)  SELECT "items".id FROM "items" WHERE ("items"."id" = 7) LIMIT 1
+Item Load (0.000562)  SELECT * FROM "items" WHERE ("items"."id" = 7) 
+Unit Load (0.000453)  SELECT * FROM "units" WHERE ("units"."id" = 1) 
+Item Exists (0.000424)  SELECT "items".id FROM "items" WHERE ("items"."id" = 6) LIMIT 1
+Item Load (0.000613)  SELECT * FROM "items" WHERE ("items"."id" = 6) 
+Unit Load (0.000495)  SELECT * FROM "units" WHERE ("units"."id" = 1) 
+Item Exists (0.000403)  SELECT "items".id FROM "items" WHERE ("items"."id" = 5) LIMIT 1
+Item Load (0.000579)  SELECT * FROM "items" WHERE ("items"."id" = 5) 
+Unit Load (0.000453)  SELECT * FROM "units" WHERE ("units"."id" = 1) 
+Item Exists (0.000483)  SELECT "items".id FROM "items" WHERE ("items"."id" = 4) LIMIT 1
+Item Load (0.000584)  SELECT * FROM "items" WHERE ("items"."id" = 4) 
+Unit Load (0.000455)  SELECT * FROM "units" WHERE ("units"."id" = 1) 
+Item Exists (0.000379)  SELECT "items".id FROM "items" WHERE ("items"."id" = 3) LIMIT 1
+Item Load (0.000569)  SELECT * FROM "items" WHERE ("items"."id" = 3) 
+Unit Load (0.000457)  SELECT * FROM "units" WHERE ("units"."id" = 2) 
+Item Exists (0.000377)  SELECT "items".id FROM "items" WHERE ("items"."id" = 2) LIMIT 1
+Item Load (0.000572)  SELECT * FROM "items" WHERE ("items"."id" = 2) 
+Unit Load (0.000449)  SELECT * FROM "units" WHERE ("units"."id" = 2) 
+Item Exists (0.000399)  SELECT "items".id FROM "items" WHERE ("items"."id" = 1) LIMIT 1
+Item Load (0.000568)  SELECT * FROM "items" WHERE ("items"."id" = 1) 
+Unit Load (0.000451)  SELECT * FROM "units" WHERE ("units"."id" = 2) 
+Item Load (3.4ms)  SELECT * FROM "items" 
+Unit Load (0.7ms)  SELECT * FROM "units" 
+Item Load (0.4ms)  SELECT "items".id FROM "items" WHERE ("items"."id" = 1) LIMIT 1
+Item Load (0.5ms)  SELECT * FROM "items" WHERE ("items"."id" = 1) 
+Unit Load (0.4ms)  SELECT * FROM "units" WHERE ("units"."id" = 2) 
+Item Load (0.4ms)  SELECT "items".id FROM "items" WHERE ("items"."id" = 2) LIMIT 1
+Item Load (0.6ms)  SELECT * FROM "items" WHERE ("items"."id" = 2) 
+Unit Load (0.5ms)  SELECT * FROM "units" WHERE ("units"."id" = 2) 
+Item Load (0.4ms)  SELECT "items".id FROM "items" WHERE ("items"."id" = 3) LIMIT 1
+Item Load (0.6ms)  SELECT * FROM "items" WHERE ("items"."id" = 3) 
+Unit Load (0.5ms)  SELECT * FROM "units" WHERE ("units"."id" = 2) 
+Item Load (0.4ms)  SELECT "items".id FROM "items" WHERE ("items"."id" = 4) LIMIT 1
+Item Load (0.6ms)  SELECT * FROM "items" WHERE ("items"."id" = 4) 
+Unit Load (0.5ms)  SELECT * FROM "units" WHERE ("units"."id" = 1) 
+Item Load (0.4ms)  SELECT "items".id FROM "items" WHERE ("items"."id" = 5) LIMIT 1
+Item Load (0.6ms)  SELECT * FROM "items" WHERE ("items"."id" = 5) 
+Unit Load (0.5ms)  SELECT * FROM "units" WHERE ("units"."id" = 1) 
+Item Load (0.4ms)  SELECT "items".id FROM "items" WHERE ("items"."id" = 7) LIMIT 1
+Item Load (0.7ms)  SELECT * FROM "items" WHERE ("items"."id" = 7) 
+Unit Load (0.5ms)  SELECT * FROM "units" WHERE ("units"."id" = 1) 
+Item Load (0.4ms)  SELECT "items".id FROM "items" WHERE ("items"."id" = 8) LIMIT 1
+Item Load (0.7ms)  SELECT * FROM "items" WHERE ("items"."id" = 8) 
+Unit Load (0.5ms)  SELECT * FROM "units" WHERE ("units"."id" = 1) 
+Item Load (0.4ms)  SELECT "items".id FROM "items" WHERE ("items"."id" = 9) LIMIT 1
+Item Load (0.7ms)  SELECT * FROM "items" WHERE ("items"."id" = 9) 
+Unit Load (0.5ms)  SELECT * FROM "units" WHERE ("units"."id" = 1) 
+Item Load (0.4ms)  SELECT "items".id FROM "items" WHERE ("items"."id" = 8) LIMIT 1
+Item Load (0.6ms)  SELECT * FROM "items" WHERE ("items"."id" = 8) 
+Unit Load (0.5ms)  SELECT * FROM "units" WHERE ("units"."id" = 1) 
+Item Load (0.4ms)  SELECT "items".id FROM "items" WHERE ("items"."id" = 7) LIMIT 1
+Item Load (0.7ms)  SELECT * FROM "items" WHERE ("items"."id" = 7) 
+Unit Load (0.5ms)  SELECT * FROM "units" WHERE ("units"."id" = 1) 
+Item Load (0.4ms)  SELECT "items".id FROM "items" WHERE ("items"."id" = 6) LIMIT 1
+Item Load (0.6ms)  SELECT * FROM "items" WHERE ("items"."id" = 6) 
+Unit Load (0.5ms)  SELECT * FROM "units" WHERE ("units"."id" = 1) 
+Item Load (0.4ms)  SELECT "items".id FROM "items" WHERE ("items"."id" = 5) LIMIT 1
+Item Load (0.6ms)  SELECT * FROM "items" WHERE ("items"."id" = 5) 
+Unit Load (0.4ms)  SELECT * FROM "units" WHERE ("units"."id" = 1) 
+Item Load (0.4ms)  SELECT "items".id FROM "items" WHERE ("items"."id" = 4) LIMIT 1
+Item Load (0.7ms)  SELECT * FROM "items" WHERE ("items"."id" = 4) 
+Unit Load (0.5ms)  SELECT * FROM "units" WHERE ("units"."id" = 1) 
+Item Load (0.4ms)  SELECT "items".id FROM "items" WHERE ("items"."id" = 3) LIMIT 1
+Item Load (0.7ms)  SELECT * FROM "items" WHERE ("items"."id" = 3) 
+Unit Load (0.5ms)  SELECT * FROM "units" WHERE ("units"."id" = 2) 
+Item Load (0.5ms)  SELECT "items".id FROM "items" WHERE ("items"."id" = 2) LIMIT 1
+Item Load (0.7ms)  SELECT * FROM "items" WHERE ("items"."id" = 2) 
+Unit Load (0.5ms)  SELECT * FROM "units" WHERE ("units"."id" = 2) 
+Item Load (0.4ms)  SELECT "items".id FROM "items" WHERE ("items"."id" = 1) LIMIT 1
+Item Load (0.6ms)  SELECT * FROM "items" WHERE ("items"."id" = 1) 
+Unit Load (0.5ms)  SELECT * FROM "units" WHERE ("units"."id" = 2) 
+Item Load (0.4ms)  SELECT "items".id FROM "items" WHERE ("items"."id" = 2) LIMIT 1
+Item Load (0.7ms)  SELECT * FROM "items" WHERE ("items"."id" = 2) 
+Unit Load (0.5ms)  SELECT * FROM "units" WHERE ("units"."id" = 2) 
+Item Load (0.4ms)  SELECT "items".id FROM "items" WHERE ("items"."id" = 3) LIMIT 1
+Item Load (0.6ms)  SELECT * FROM "items" WHERE ("items"."id" = 3) 
+Unit Load (0.5ms)  SELECT * FROM "units" WHERE ("units"."id" = 2) 
+Item Load (0.5ms)  SELECT "items".id FROM "items" WHERE ("items"."id" = 4) LIMIT 1
+Item Load (0.6ms)  SELECT * FROM "items" WHERE ("items"."id" = 4) 
+Unit Load (0.4ms)  SELECT * FROM "units" WHERE ("units"."id" = 1) 
+Item Load (0.4ms)  SELECT "items".id FROM "items" WHERE ("items"."id" = 5) LIMIT 1
+Item Load (0.7ms)  SELECT * FROM "items" WHERE ("items"."id" = 5) 
+Unit Load (0.5ms)  SELECT * FROM "units" WHERE ("units"."id" = 1) 
+Item Load (0.4ms)  SELECT "items".id FROM "items" WHERE ("items"."id" = 6) LIMIT 1
+Item Load (0.6ms)  SELECT * FROM "items" WHERE ("items"."id" = 6) 
+Unit Load (0.5ms)  SELECT * FROM "units" WHERE ("units"."id" = 1) 
+Item Load (0.4ms)  SELECT "items".id FROM "items" WHERE ("items"."id" = 7) LIMIT 1
+Item Load (0.6ms)  SELECT * FROM "items" WHERE ("items"."id" = 7) 
+Unit Load (0.5ms)  SELECT * FROM "units" WHERE ("units"."id" = 1) 
+Item Load (0.5ms)  SELECT "items".id FROM "items" WHERE ("items"."id" = 8) LIMIT 1
+Item Load (0.6ms)  SELECT * FROM "items" WHERE ("items"."id" = 8) 
+Unit Load (0.5ms)  SELECT * FROM "units" WHERE ("units"."id" = 1) 
+Item Load (0.4ms)  SELECT "items".id FROM "items" WHERE ("items"."id" = 9) LIMIT 1
+Item Load (0.7ms)  SELECT * FROM "items" WHERE ("items"."id" = 9) 
+Unit Load (0.5ms)  SELECT * FROM "units" WHERE ("units"."id" = 1) 

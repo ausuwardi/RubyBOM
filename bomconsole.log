@@ -1,0 +1,14 @@
+# Logfile created on Mon Jan 25 16:47:12 +0700 2010 by /
+Item Load (0.001726)  SELECT * FROM "items" 
+Item Load (0.001173)  SELECT * FROM "items" 
+Item Load (0.001710)  SELECT * FROM "items" 
+Unit Load (0.000549)  SELECT * FROM "units" 
+Unit Load (0.000532)  SELECT * FROM "units" WHERE ("units"."id" = 1) 
+Item Create (0.012337)  INSERT INTO "items" ("unit_id", "stock_buffer", "logistic_type", "mpoq", "lead_time", "description", "search_key") VALUES(1, 1000.0, 'P', 5000.0, 14, 'Case Lipstick', 'CASEL')
+Unit Load (0.000500)  SELECT * FROM "units" 
+Unit Load (0.000546)  SELECT * FROM "units" WHERE ("units"."id" = 1) 
+Item Create (0.000435)  INSERT INTO "items" ("unit_id", "stock_buffer", "logistic_type", "mpoq", "lead_time", "description", "search_key") VALUES(1, 1000.0, 'P', 5000.0, 14, 'Cap Lipstick', 'CAPL')
+Item Load (0.001471)  SELECT * FROM "items" 
+Unit Load (0.000596)  SELECT * FROM "units" 
+Unit Load (0.000554)  SELECT * FROM "units" WHERE ("units"."id" = 1) 
+Item Create (0.000445)  INSERT INTO "items" ("unit_id", "stock_buffer", "logistic_type", "mpoq", "lead_time", "description", "search_key") VALUES(1, 1000.0, 'R', 500.0, 30, 'Base Lipstick', 'BASEL')

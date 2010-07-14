@@ -1,0 +1,124 @@
+# Logfile created on Wed Feb 10 14:48:49 +0700 2010 by /
+BOMNode Load (0.000606)  SELECT * FROM "bom_nodes" WHERE ("bom_nodes"."id" = 1) 
+BOMNode Load (0.000581)  SELECT * FROM "bom_nodes" WHERE ("bom_nodes"."id" = 2) 
+BOMNode Load (0.000791)  SELECT * FROM "bom_nodes" WHERE ("bom_nodes"."id" = 3) 
+Item Load (0.000582)  SELECT * FROM "items" WHERE ("items"."id" = 3) 
+BOMNode Load (0.000417)  SELECT * FROM "bom_nodes" WHERE ("bom_nodes"."id" = 1) 
+BOMNode Load (0.000436)  SELECT * FROM "bom_nodes" WHERE ("bom_nodes"."id" = 2) 
+BOMNode Load (0.000393)  SELECT * FROM "bom_nodes" WHERE ("bom_nodes"."id" = 3) 
+Item Load (0.000433)  SELECT * FROM "items" WHERE ("items"."id" = 3) 
+SequenceList Create (0.000548)  INSERT INTO "sequence_list" ("next_id", "previous_id", "data_id", "context", "seq_group") VALUES(NULL, NULL, 2, 'BOM', 3)
+SequenceList Create (0.000339)  INSERT INTO "sequence_list" ("next_id", "previous_id", "data_id", "context", "seq_group") VALUES(NULL, NULL, 1, 'BOM', 3)
+SequenceList Update (0.000166)  UPDATE "sequence_list" SET "previous_id" = 2 WHERE "id" = 1
+SequenceList Update (0.000282)  UPDATE "sequence_list" SET "next_id" = 1 WHERE "id" = 2
+SequenceList Create (0.000308)  INSERT INTO "sequence_list" ("next_id", "previous_id", "data_id", "context", "seq_group") VALUES(NULL, NULL, 3, 'BOM', 3)
+SequenceList Update (0.000284)  UPDATE "sequence_list" SET "previous_id" = 1 WHERE "id" = 3
+SequenceList Update (0.000272)  UPDATE "sequence_list" SET "next_id" = 3 WHERE "id" = 1
+SequenceList Load (0.000000)  SQLite3::SQLException: no such column: sequence_list.previous: SELECT * FROM "sequence_list" WHERE ("sequence_list"."context" = 'BOM' AND "sequence_list"."seq_group" = 3 AND "sequence_list"."previous" IS NULL) LIMIT 1
+BOMNode Load (0.000416)  SELECT * FROM "bom_nodes" WHERE ("bom_nodes"."id" = 1) 
+BOMNode Load (0.000432)  SELECT * FROM "bom_nodes" WHERE ("bom_nodes"."id" = 2) 
+BOMNode Load (0.000390)  SELECT * FROM "bom_nodes" WHERE ("bom_nodes"."id" = 3) 
+Item Load (0.000443)  SELECT * FROM "items" WHERE ("items"."id" = 3) 
+SequenceList Create (0.000701)  INSERT INTO "sequence_list" ("next_id", "previous_id", "data_id", "context", "seq_group") VALUES(NULL, NULL, 2, 'BOM', 3)
+SequenceList Create (0.000443)  INSERT INTO "sequence_list" ("next_id", "previous_id", "data_id", "context", "seq_group") VALUES(NULL, NULL, 1, 'BOM', 3)
+SequenceList Update (0.000202)  UPDATE "sequence_list" SET "previous_id" = 2 WHERE "id" = 1
+SequenceList Update (0.000380)  UPDATE "sequence_list" SET "next_id" = 1 WHERE "id" = 2
+SequenceList Create (0.000430)  INSERT INTO "sequence_list" ("next_id", "previous_id", "data_id", "context", "seq_group") VALUES(NULL, NULL, 3, 'BOM', 3)
+SequenceList Update (0.000600)  UPDATE "sequence_list" SET "previous_id" = 1 WHERE "id" = 3
+SequenceList Update (0.000358)  UPDATE "sequence_list" SET "next_id" = 3 WHERE "id" = 1
+SequenceList Load (0.000000)  SQLite3::SQLException: no such column: sequence_list.previous: SELECT * FROM "sequence_list" WHERE ("sequence_list"."context" = 'BOM' AND "sequence_list"."seq_group" = 3 AND "sequence_list"."previous" IS NULL) LIMIT 1
+BOMNode Load (0.000412)  SELECT * FROM "bom_nodes" WHERE ("bom_nodes"."id" = 1) 
+BOMNode Load (0.000434)  SELECT * FROM "bom_nodes" WHERE ("bom_nodes"."id" = 2) 
+BOMNode Load (0.000392)  SELECT * FROM "bom_nodes" WHERE ("bom_nodes"."id" = 3) 
+Item Load (0.000440)  SELECT * FROM "items" WHERE ("items"."id" = 3) 
+SequenceList Create (0.000472)  INSERT INTO "sequence_list" ("next_id", "previous_id", "data_id", "context", "seq_group") VALUES(NULL, NULL, 2, 'BOM', 3)
+SequenceList Create (0.000385)  INSERT INTO "sequence_list" ("next_id", "previous_id", "data_id", "context", "seq_group") VALUES(NULL, NULL, 1, 'BOM', 3)
+SequenceList Update (0.000163)  UPDATE "sequence_list" SET "previous_id" = 2 WHERE "id" = 1
+SequenceList Update (0.000318)  UPDATE "sequence_list" SET "next_id" = 1 WHERE "id" = 2
+SequenceList Create (0.000391)  INSERT INTO "sequence_list" ("next_id", "previous_id", "data_id", "context", "seq_group") VALUES(NULL, NULL, 3, 'BOM', 3)
+SequenceList Update (0.000304)  UPDATE "sequence_list" SET "previous_id" = 1 WHERE "id" = 3
+SequenceList Update (0.000300)  UPDATE "sequence_list" SET "next_id" = 3 WHERE "id" = 1
+BOMNode Load (0.000465)  SELECT * FROM "bom_nodes" WHERE ("bom_nodes"."id" = 1) 
+BOMNode Load (0.000449)  SELECT * FROM "bom_nodes" WHERE ("bom_nodes"."id" = 2) 
+BOMNode Load (0.000419)  SELECT * FROM "bom_nodes" WHERE ("bom_nodes"."id" = 3) 
+Item Load (0.000423)  SELECT * FROM "items" WHERE ("items"."id" = 3) 
+SequenceList Create (0.000525)  INSERT INTO "sequence_list" ("next_id", "previous_id", "data_id", "context", "seq_group") VALUES(NULL, NULL, 2, NULL, NULL)
+SequenceList Create (0.000345)  INSERT INTO "sequence_list" ("next_id", "previous_id", "data_id", "context", "seq_group") VALUES(NULL, NULL, 1, 'BOM', 3)
+SequenceList Update (0.000164)  UPDATE "sequence_list" SET "previous_id" = 2 WHERE "id" = 1
+BOMNode Load (0.000419)  SELECT * FROM "bom_nodes" WHERE ("bom_nodes"."id" = 1) 
+BOMNode Load (0.000423)  SELECT * FROM "bom_nodes" WHERE ("bom_nodes"."id" = 2) 
+BOMNode Load (0.000397)  SELECT * FROM "bom_nodes" WHERE ("bom_nodes"."id" = 3) 
+Item Load (0.000417)  SELECT * FROM "items" WHERE ("items"."id" = 3) 
+SequenceList Create (0.000575)  INSERT INTO "sequence_list" ("next_id", "previous_id", "data_id", "context", "seq_group") VALUES(NULL, NULL, 2, NULL, NULL)
+SequenceList Create (0.000360)  INSERT INTO "sequence_list" ("next_id", "previous_id", "data_id", "context", "seq_group") VALUES(NULL, NULL, 1, 'BOM', 3)
+SequenceList Update (0.000160)  UPDATE "sequence_list" SET "previous_id" = 2 WHERE "id" = 1
+BOMNode Load (0.000443)  SELECT * FROM "bom_nodes" WHERE ("bom_nodes"."id" = 1) 
+BOMNode Load (0.000413)  SELECT * FROM "bom_nodes" WHERE ("bom_nodes"."id" = 2) 
+BOMNode Load (0.000385)  SELECT * FROM "bom_nodes" WHERE ("bom_nodes"."id" = 3) 
+Item Load (0.000414)  SELECT * FROM "items" WHERE ("items"."id" = 3) 
+SequenceList Create (0.000512)  INSERT INTO "sequence_list" ("next_id", "previous_id", "data_id", "context", "seq_group") VALUES(NULL, NULL, 1, 'BOM', 3)
+SequenceList Create (0.000300)  INSERT INTO "sequence_list" ("next_id", "previous_id", "data_id", "context", "seq_group") VALUES(NULL, NULL, 2, NULL, NULL)
+SequenceList Update (0.000301)  UPDATE "sequence_list" SET "previous_id" = 1 WHERE "id" = 2
+BOMNode Load (0.000488)  SELECT * FROM "bom_nodes" WHERE ("bom_nodes"."id" = 1) 
+BOMNode Load (0.000419)  SELECT * FROM "bom_nodes" WHERE ("bom_nodes"."id" = 2) 
+BOMNode Load (0.000407)  SELECT * FROM "bom_nodes" WHERE ("bom_nodes"."id" = 3) 
+Item Load (0.000548)  SELECT * FROM "items" WHERE ("items"."id" = 3) 
+SequenceList Create (0.000528)  INSERT INTO "sequence_list" ("next_id", "previous_id", "data_id", "context", "seq_group") VALUES(NULL, NULL, 1, 'BOM', 3)
+SequenceList Create (0.000329)  INSERT INTO "sequence_list" ("next_id", "previous_id", "data_id", "context", "seq_group") VALUES(NULL, NULL, 2, 'BOM', 3)
+SequenceList Update (0.000303)  UPDATE "sequence_list" SET "previous_id" = 1 WHERE "id" = 2
+SequenceList Update (0.003230)  UPDATE "sequence_list" SET "next_id" = 2 WHERE "id" = 1
+SequenceList Create (0.000521)  INSERT INTO "sequence_list" ("next_id", "previous_id", "data_id", "context", "seq_group") VALUES(NULL, NULL, 3, 'BOM', 3)
+SequenceList Update (0.000293)  UPDATE "sequence_list" SET "previous_id" = 2 WHERE "id" = 3
+SequenceList Update (0.000496)  UPDATE "sequence_list" SET "next_id" = 3 WHERE "id" = 2
+BOMNode Load (0.000429)  SELECT * FROM "bom_nodes" WHERE ("bom_nodes"."id" = 1) 
+BOMNode Load (0.000416)  SELECT * FROM "bom_nodes" WHERE ("bom_nodes"."id" = 2) 
+BOMNode Load (0.000387)  SELECT * FROM "bom_nodes" WHERE ("bom_nodes"."id" = 3) 
+Item Load (0.000417)  SELECT * FROM "items" WHERE ("items"."id" = 3) 
+SequenceList Create (0.000544)  INSERT INTO "sequence_list" ("next_id", "previous_id", "data_id", "context", "seq_group") VALUES(NULL, NULL, 1, 'BOM', 3)
+SequenceList Create (0.000335)  INSERT INTO "sequence_list" ("next_id", "previous_id", "data_id", "context", "seq_group") VALUES(NULL, NULL, 2, 'BOM', 3)
+SequenceList Update (0.000302)  UPDATE "sequence_list" SET "previous_id" = 4 WHERE "id" = 5
+SequenceList Update (0.000366)  UPDATE "sequence_list" SET "next_id" = 5 WHERE "id" = 4
+SequenceList Create (0.000302)  INSERT INTO "sequence_list" ("next_id", "previous_id", "data_id", "context", "seq_group") VALUES(NULL, NULL, 3, 'BOM', 3)
+SequenceList Update (0.000287)  UPDATE "sequence_list" SET "previous_id" = 5 WHERE "id" = 6
+SequenceList Update (0.000288)  UPDATE "sequence_list" SET "next_id" = 6 WHERE "id" = 5
+SequenceList Load (0.000000)  SQLite3::SQLException: no such column: sequence_list.previous: SELECT * FROM "sequence_list" WHERE ("sequence_list"."previous" IS NULL AND "sequence_list"."context" = 'BOM' AND "sequence_list"."seq_group" = 3) LIMIT 1
+BOMNode Load (0.000444)  SELECT * FROM "bom_nodes" WHERE ("bom_nodes"."id" = 1) 
+BOMNode Load (0.000415)  SELECT * FROM "bom_nodes" WHERE ("bom_nodes"."id" = 2) 
+BOMNode Load (0.000389)  SELECT * FROM "bom_nodes" WHERE ("bom_nodes"."id" = 3) 
+Item Load (0.000429)  SELECT * FROM "items" WHERE ("items"."id" = 3) 
+SequenceList Create (0.000553)  INSERT INTO "sequence_list" ("next_id", "previous_id", "data_id", "context", "seq_group") VALUES(NULL, NULL, 1, 'BOM', 3)
+SequenceList Create (0.000319)  INSERT INTO "sequence_list" ("next_id", "previous_id", "data_id", "context", "seq_group") VALUES(NULL, NULL, 2, 'BOM', 3)
+SequenceList Update (0.000304)  UPDATE "sequence_list" SET "previous_id" = 7 WHERE "id" = 8
+SequenceList Update (0.000309)  UPDATE "sequence_list" SET "next_id" = 8 WHERE "id" = 7
+SequenceList Create (0.000298)  INSERT INTO "sequence_list" ("next_id", "previous_id", "data_id", "context", "seq_group") VALUES(NULL, NULL, 3, 'BOM', 3)
+SequenceList Update (0.000312)  UPDATE "sequence_list" SET "previous_id" = 8 WHERE "id" = 9
+SequenceList Update (0.000287)  UPDATE "sequence_list" SET "next_id" = 9 WHERE "id" = 8
+SequenceList Load (0.000403)  SELECT * FROM "sequence_list" WHERE ("sequence_list"."previous_id" IS NULL AND "sequence_list"."context" = 'BOM' AND "sequence_list"."seq_group" = 3) LIMIT 1
+BOMNode Load (0.000399)  SELECT * FROM "bom_nodes" WHERE ("bom_nodes"."id" = 1) 
+Item Load (0.000397)  SELECT * FROM "items" WHERE ("items"."id" = 3) 
+SequenceList Load (0.000417)  SELECT * FROM "sequence_list" WHERE ("sequence_list"."id" = 2) 
+BOMNode Load (0.000425)  SELECT * FROM "bom_nodes" WHERE ("bom_nodes"."id" = 2) 
+Item Load (0.000399)  SELECT * FROM "items" WHERE ("items"."id" = 3) 
+SequenceList Load (0.000387)  SELECT * FROM "sequence_list" WHERE ("sequence_list"."id" = 3) 
+BOMNode Load (0.000391)  SELECT * FROM "bom_nodes" WHERE ("bom_nodes"."id" = 3) 
+Item Load (0.000416)  SELECT * FROM "items" WHERE ("items"."id" = 3) 
+BOMNode Load (0.000437)  SELECT * FROM "bom_nodes" WHERE ("bom_nodes"."id" = 1) 
+BOMNode Load (0.000445)  SELECT * FROM "bom_nodes" WHERE ("bom_nodes"."id" = 2) 
+BOMNode Load (0.000385)  SELECT * FROM "bom_nodes" WHERE ("bom_nodes"."id" = 3) 
+Item Load (0.000436)  SELECT * FROM "items" WHERE ("items"."id" = 3) 
+SequenceList Create (0.000607)  INSERT INTO "sequence_list" ("next_id", "previous_id", "data_id", "context", "seq_group") VALUES(NULL, NULL, 1, 'BOM', 3)
+SequenceList Create (0.000304)  INSERT INTO "sequence_list" ("next_id", "previous_id", "data_id", "context", "seq_group") VALUES(NULL, NULL, 2, 'BOM', 3)
+SequenceList Update (0.000294)  UPDATE "sequence_list" SET "previous_id" = 10 WHERE "id" = 11
+SequenceList Update (0.000290)  UPDATE "sequence_list" SET "next_id" = 11 WHERE "id" = 10
+SequenceList Create (0.000302)  INSERT INTO "sequence_list" ("next_id", "previous_id", "data_id", "context", "seq_group") VALUES(NULL, NULL, 3, 'BOM', 3)
+SequenceList Update (0.000278)  UPDATE "sequence_list" SET "previous_id" = 11 WHERE "id" = 12
+SequenceList Update (0.000277)  UPDATE "sequence_list" SET "next_id" = 12 WHERE "id" = 11
+SequenceList Load (0.000406)  SELECT * FROM "sequence_list" WHERE ("sequence_list"."previous_id" IS NULL AND "sequence_list"."context" = 'BOM' AND "sequence_list"."seq_group" = 3) LIMIT 1
+BOMNode Load (0.000398)  SELECT * FROM "bom_nodes" WHERE ("bom_nodes"."id" = 1) 
+Item Load (0.000778)  SELECT * FROM "items" WHERE ("items"."id" = 3) 
+SequenceList Load (0.000575)  SELECT * FROM "sequence_list" WHERE ("sequence_list"."id" = 2) 
+BOMNode Load (0.000560)  SELECT * FROM "bom_nodes" WHERE ("bom_nodes"."id" = 2) 
+Item Load (0.000553)  SELECT * FROM "items" WHERE ("items"."id" = 3) 
+SequenceList Load (0.000535)  SELECT * FROM "sequence_list" WHERE ("sequence_list"."id" = 3) 
+BOMNode Load (0.000568)  SELECT * FROM "bom_nodes" WHERE ("bom_nodes"."id" = 3) 
+Item Load (0.000567)  SELECT * FROM "items" WHERE ("items"."id" = 3) 
