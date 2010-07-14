@@ -1,0 +1,5 @@
+This is an experimental project to create a desktop database application using Ruby, Activerecord, GTK and libglade.
+
+To run this project type:
+	$ ruby cobaglade.rb
+
